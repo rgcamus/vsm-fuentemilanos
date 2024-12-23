@@ -3,6 +3,7 @@
     "asciidoc.preview.useEditorStyle": false,
     "asciidoc.preview.style": "book/themes/",
     "cSpell.words": [
+        "adoc",
         "pdfwidth"
     ]
 }
