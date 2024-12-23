@@ -1,0 +1,37 @@
+name: book-generate-pdf
+run-name: "Generate Book PDF"
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+env:
+  BOOK_SOURCE_DIR: ${{ github.workspace }}/book
+  BOOK_BUILD_DIR: ${{ github.workspace }}/build
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    container:
+      image: asciidoctor/docker-asciidoctor
+      volumes:
+        - ${{ github.workspace }}:/documents
+    steps:
+      - uses: actions/checkout@v3
+      - name: "asciidoctor-pdf"
+        run: |
+          asciidoctor-pdf \
+            -a pdf-themesdir=$BOOK_SOURCE_DIR/themes \
+            -a pdf-theme=basic \
+            -a pdf-fontsdir=$BOOK_SOURCE_DIR/fonts \
+            -D $BOOK_BUILD_DIR \
+            $BOOK_SOURCE_DIR/index.adoc
+      - name: "Save generated book PDF as build artifact"
+        uses: actions/upload-artifact@v3
+        with:
+          name: book
+          path: build

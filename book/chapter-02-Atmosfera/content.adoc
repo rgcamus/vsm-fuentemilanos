@@ -1,0 +1,730 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-02-Atmosfera/images
+endif::[]
+
+= ¿QUÉ PASA EN LA ATMÓSFERA?
+
+== La convección
+
+.Los cumulonimbus alcanzan desarrollos muy importantes, pudiendo llegar a alturas de hasta 20.000 m.
+image::cumulonimbo.png[]
+
+El mecanismo de la convección tiene su base en que una masa de aire se
+convierta en más ligera que el resto que le rodea y comience a ascender.
+
+El aire caliente es más ligero porque sus moléculas se mueven más
+rápidamente y aumenta su volumen, disminuyendo su peso específico.
+
+Si además esa masa de aire contiene vapor de agua, es todavía más ligera, ya
+que el vapor de agua es aún más ligero que el aire, con menor peso
+específico.
+
+La insolación no calienta el aire transparente, pero si calienta el suelo
+(¡…y mucho!), y el suelo transmite ese calor a la capa de aire con la que
+está en contacto
+
+A partir de aquí, cuando una pompa de aire en contacto con el terreno, se
+calienta lo suficiente, basta que ocurra algo que la inestabilice (por
+ejemplo: el paso de un automóvil), para que "`despegue`" y comience su
+ascenso.
+Al elevarse, deja su sitio al aire más fresco de su alrededor, que comenzará
+a calentarse y ascender, y así sucesivamente.
+
+Así se forman las térmicas, partiendo de focos de producción muy calientes
+por la insolación, y ayudados por condiciones adecuadas de la atmósfera que
+denominaremos `inestabilidad`.
+
+[sidebar]
+****
+Las térmicas estaban trabajando de maravilla, con valores entre 4 y 5 m/s.
+a lo largo de toda la sierra entre La Salceda y San Rafael.
+
+La tarde estaba avanzando y calentando fuertemente la ladera de La Mujer
+Muerta, y hacia allí me dirigí aumentando un poco la velocidad y sosteniendo
+la palanca con la punta de los dedos como acostumbro a volar, por aquello de
+la sensibilidad.
+
+El golpe fué instantáneo… una térmica que hizo saltar la aguja del vario
+arriba del todo, me arrancó la palanca de los dedos y levantó el ala derecha
+hasta los 45°, sin olvidar el golpe de mi cabeza con el plexiglás de la
+cabina y el fuerte desvío de la trayectoria del velero.
+
+La cercanía de las rocas de la ladera y el susto, me hicieron sudar en frío,
+y aprender la potencia que puede desarrollar una térmica en determinadas
+condiciones.
+
+Por supuesto que desde entonces vuelo con los cinturones ¡mucho más
+ajustados!
+****
+
+== Nubes
+
+Para que a partir del aire caliente que asciende se formen nubes, es
+necesario que confluyan dos factores fundamentales, la presencia de núcleos
+de condensación y el nivel de humedad ambiental.
+
+Los núcleos de condensación son pequeñas partículas en suspensión, en las
+que la humedad se condensa en forma de pequeñas gotitas de agua.
+
+Cuando el aire ascendente se enfría lo suficiente, llega a su punto de
+rocío, con temperatura lo suficientemente baja que a pesar de haber
+disminuido la presión parcial de vapor, el vapor de agua se condensa en
+forma de pequeñas gotitas invisibles al rededor de los núcleos de
+condensación, en un proceso imparable que continúa desarrollándose
+favorablemente con formación de gigantescos cúmulonimbos.
+
+.Diagrama de la evolución de las nubes y los tipos de térmicas
+image::evolucion.png[Diagrama de la evolución de las nubes y los tipos]
+
+== La predicción meteorológica en el aeródromo
+
+Una buena información meteorológica es imprescindible para la preparación de
+vuelos de distancia.
+
+.Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia
+image::meteo.png[Una buena información meteorológica es imprescindible para la preparación de vuelos de distancia,pdfwidth=80%]
+
+Cada mañana del verano, sobre las 7:00Hs.
+se puede escuchar el primer signo de actividad en el aeródromo; el motor en
+marcha del motovelero encargado de la toma de datos de la temperatura y
+humedad del aire de nuestra zona.
+
+Es el primer paso de un rito que se realiza cada día y culmina en la reunión
+pre-vuelo de las 9:00Hs.
+a la que acuden, expectantes, todos los pilotos del aeródromo.
+
+Los pilotos novatos asistimos un poco circunspectos a esta reunión, pues
+desde nuestra óptica, no entendemos tanta parafernalia, pero a medida que se
+van haciendo vuelos de más distancia y más duración, nos vamos dando cuenta
+de la importancia que tiene conocer de antemano la posible evolución de la
+meteorología del día.
+
+Los elementos básicos en los que se apoya el meteorólogo para su predicción
+a pié de aeródromo, son las imágenes del Meteosat, y los datos de
+temperatura y humedad de la atmósfera local.
+A esto se puede añadir el informe que proporciona el centro meteorológico de
+Valladolid.
+
+.al finalizar el briefing
+[sidebar]
+****
+[verse]
+----
+- Bueno, entonces… ¿Qué ha dicho?
+- Que el día va a ser muy bueno.
+- ¡Ah!… ¡vale!
+----
+****
+
+El Meteosat proporciona imágenes del tiempo en superficie, recopiladas en
+las últimas horas, y es muy útil para observar el desplazamiento de frentes,
+la presencia de borrascas, la dirección e intensidad del viento, y para
+anticipar la evolución que puede tomar en las horas siguientes.
+
+El sondeo realizado a primera hora de la mañana nos proporciona un gradiente
+térmico de la atmósfera local y su humedad.
+Estos datos debidamente representados en un diagrama termodinámico, nos
+ofrecerán la predicción de la presencia de cúmulos, techo de vuelo y hora de
+comienzo de la actividad convectiva.
+
+== Anticiclones y borrascas
+
+En su continua evolución y movimiento, la atmósfera nos presenta formaciones
+de presión localizadas que de manera general se denominan Anticiclones y
+Borrascas.
+
+Los anticiclones `(A)`, corresponden a formaciones de altas presiones tienen
+forma elíptica, ocupando extensiones de territorio del tamaño de un
+continente.
+
+El aire gira a su alrededor en el sentido de las agujas del reloj
+(Hemisferio Norte), las isobaras están bastante separadas y su presencia se
+asocia al `"buen tiempo"`.
+
+.Evolución de una Borrasca con las etapas Nacimiento; Madurez y Final
+image::borrasca.png[]
+
+Las borrascas `(B)`, son centros de bajas presiones, con forma más circular
+y pequeña y con las isobaras más cercanas.
+
+El aire gira a su alrededor en sentido contrario a las agujas del reloj
+(Hemisferio Norte) y su presencia ocasiona el `"mal tiempo"`.
+
+Asociadas a las formaciones de presión, circulan las masas de aire que
+presentan condiciones uniformes de temperatura y humedad, y que puestas en
+movimiento, avanzan como si de una gigantesca ola se tratase.
+
+Cuando una masa de aire se encuentra con otra, se produce una zona de
+transición entre las dos que se denomina frente.
+
+Los frentes pueden ser cálidos, si es una masa cálida que desplaza a otra
+más fría, ó fríos si es una masa fría la que desplaza a otra más caliente.
+
+== Planta y sección de una borrasca
+
+.Planta y sección de una borrasca
+image::planta-seccion-borrasca.png[Planta y sección de una borrasca,pdfwidth=80%]
+
+Si observamos las imágenes del Meteosat, podremos observar perfectamente
+cómo las borrascas giran en sentido contrario a las agujas del reloj y se
+desplazan rápidamente siguiendo una trayectoria más o menos previsible, a
+menos que encuentre en su camino un anticiclón que le "tapone" y le desvíe.
+La velocidad de giro que podremos observar, nos indica la velocidad del
+viento, y las masas nubosas que avanzan con él, son los frentes que ya hemos
+mencionado.
+
+La situación ideal para la práctica del VSM corresponde a los días
+siguientes al paso de un frente frío, que "limpia" la atmósfera, dejando un
+aire fresco y transparente muy propicio para el desarrollo de la convección.
+
+== Diagrama de Stüve
+
+Es un diagrama termodinámico que representa un modelo teórico para el
+estudio de la ascensión de las masas de aire.
+
+Su utilidad consiste en que aporta una previsión del desarrollo de la
+actividad convectiva y de la formación de nubes.
+Para la planificación de los vuelos de distancia es fundamental conocer el
+techo que tendremos y la hora de comienzo de la actividad atmosférica.
+Pensemos en la importancia que tiene acertar la hora de salida para aquellos
+vuelos de 700 a 1.000 Kms., sabiendo que pueden durar unas 9 ó 10 horas.
+
+El diagrama tiene forma de tabla de doble entrada con la altura representada
+en el eje vertical y la temperatura en el eje horizontal.
+
+.Los dos conceptos fundamentales, en los que se basa el modelo, son los siguientes:
+[sidebar]
+****
+1. Una masa de aire sube mientras sea más caliente que el aire que la rodea.
+2. Una masa de aire se comporta según procesos adiabáticos, es decir, se
+desplazará según indican las líneas adiabáticas, cambiando de volumen,
+presión y temperatura, pero sin absorber ni ceder calor.
+****
+
+=== Procesos Adiabáticos
+
+Una misma masa de aire varía su temperatura al variar la altura a la que se
+encuentre.
+Esta variación de la temperatura no se debe a que reciba ó ceda calor, sino
+al efecto de la presión atmosférica.
+
+A menor altura más presión y más temperatura.
+A mayor altura menos presión y menos temperatura.
+
+Recordemos cómo se calienta el bombín de una bicicleta cuando bombeamos aire
+para inflar los neumáticos; el calor lo produce únicamente el exceso de
+presión que ejercemos sobre el aire contenido en la cámara del bombín.
+
+Estas variaciones de temperatura sin que intervenga una ganancia ó cesión de
+calor, se denominan procesos adiabáticos.
+
+El gradiente adiabático es una ley termodinámica inmutable que representa
+las variaciones en la temperatura de un masa de aire en movimiento; si la
+masa es seca, su temperatura varía 1°C cada 1.000 mts.; si la masa es
+húmeda, varía de 0,5 a 0,6 °C cada 1.000 mts.
+
+=== Representación
+
+El diagrama se desarrolla sobre una base con tres tipos de líneas ya
+preimpresas que responden al comportamiento adiabático ya mencionado:
+
+Línea adiabática SECA:: Representa el gradiente de ascenso de una masa de
+aire seca; se enfriaría 1º C cada 100mts.
+de ascenso.
+
+Línea adiabática HÚMEDA:: Representa el gradiente de ascenso de una masa de
+aire saturada de humedad.
+Por el efecto regulador del vapor de agua que contiene, se enfriaría menos;
+0,5° C cada 100mts.
+de ascenso.
+
+Línea de SATURACIÓN:: También denominada línea de Igual Razón de Mezcla.
+Representa gradiente de ascenso de una masa de aire con un contenido
+determinado de vapor de agua, por ejemplo 10 grs.
+de vapor de agua por Kg.
+de aire seco.
+Si esa masa se fuerza hacia una menor temperatura, se produce la
+condensación.
+
+Estamos simplificando los conceptos al máximo con el objeto de tener una
+idea general del proceso.
+Las líneas serían curvas en la realidad, y los enfriamientos en función de
+la altura no son constantes, pero un modelo teórico requiere cierta
+esquematización de la realidad.
+
+El punto de partida para elaborar el Diagrama es el sondeo de
+altura/temperatura de la atmósfera local, que una vez representado en el
+diagrama, produce una curva denominada curva de estado, y su relación con
+las líneas adiabáticas, es la siguiente:
+
+Para una masa de aire *SECA*:
+
+* Si la curva de estado discurre a la derecha de la adiabática seca hay
+  *INESTABILIDAD*.
+* Si la curva de estado discurre a la izquierda de la adiabática seca hay
+  *ESTABILIDAD*.
+
+Para una masa de aire *SATURADA*:
+
+* Si la curva de estado discurre a la derecha de la adiabática húmeda hay
+  *ESTABILIDAD*.
+* Si la curva de estado discurre a la izquierda de la adiabática húmeda hay
+  *INESTABILIDAD*.
+
+También necesitaremos obtener el punto de rocío mediante un termómetro
+húmedo.
+
+El punto de rocío local, es la temperatura a la cual alcanzaría la
+saturación el aire que nos rodea.
+
+Partiendo del punto de rocío representado en el diagrama, la línea de
+saturación define dos áreas a su derecha y a su izquierda.
+Si la curva de estado pasase a la izquierda de la línea de saturación, se
+produciría la condensación de la humedad contenida en la masa de aire que
+asciende.
+Si la curva de estado discurriese siempre a la derecha de la línea de
+saturación, no habrá condensación y no se formarían nubes.
+
+A partir de la intersección de la curva de estado con la línea de
+saturación, la masa de aire que asciende pasa a comportarse como aire
+saturado.
+
+[sidebar]
+****
+Durante la noche, el terreno recalentado vá desprendiendo el calor acumulado
+por la insolación diurna, y el aire junto al suelo asciende lentamente
+mientras que otro más fresco baja a ocupar su lugar, produciendo una
+situación de inversión: aire caliente arriba, y aire más frío debajo.
+
+Por las mañanas de verano, es normal ver cómo asciende el humo de la fábrica
+de vidrio de La Granja y se detiene y expande a unos 400mts.
+de altura como si hubiese una tapa de cristal que le impidiese seguir
+ascendiendo.
+
+Es la inversión la que le detiene, y serán necesarias un par de horas de
+insolación para que se rompa esa "tapadera" por el ascenso de aire más
+caliente.
+****
+
+.Una vez rota la inversión, progresa la formación de cúmulos con el día y cae al atardecer
+image::cumulos.png[]
+
+==== Adiabáticas Secas
+
+Representan el gradiente de enfriamiento de una masa de aire SECA, con la
+variación de altura.
+
+.Adiabática seca
+image::adiabatica-seca.png[pdfwidth=40%,float=left]
+
+El enfriamiento será a razón de 1°C cada 100Mts.
+de altura.
+
+Una masa de aire seca que se encuentra en A a 20°C, en su ascenso hasta B,
+"cederá" 15°C en 1.500Mts, y en C se encontrará a 3.000Mts y a 0°C.
+
+==== Adiabáticas húmedas
+
+Representan el gradiente de enfriamiento de una masa de aire HÚMEDA, con la
+variación de altura.
+
+.Adiabática húmeda
+image::adiabatica-humeda.png[pdfwidth=40%,float=left]
+
+El enfriamiento será a razón de 0,5°C cada 100Mts.
+de altura.
+
+Una masa de aire seca que se encuentra en A a 20°C, en su ascenso hasta B,
+"cederá" 10°C en 2.000Mts, y en C se encontrará a 4.000Mts y a 0°C.
+
+El enfriamiento es menor por el efecto regulador del vapor de agua que
+contiene.
+
+==== Líneas de saturación
+
+.Líneas de saturación
+image::saturacion.png[pdfwidth=40%,float=left]
+
+Representan el gradiente de enfriamiento de una masa de aire con la
+variación de altura, y que mantiene una relación constante de HUMEDAD POR
+VOLUMEN DE AIRE SECO.
+
+Cada línea de saturación, representa un contenido en gramos de vapor por
+kilogramo de aire seco.
+
+==== Rayado para el barograma
+
+.Rayado del barograma
+image::rayado.png[pdfwidth=40%,float=left]
+
+Es la combinación de las líneas arriba mencionadas, y so- bre el que se
+representa la CURVA DE ESTADO de la atmósfera para estudiar su interrelación
+con éstas.
+
+.Diagrama termométrico de Stüve
+image::diagrama.png[]
+
+=== Comentario del gráfico
+
+Sondeo:: El sondeo del día nos presenta una inversión a bajo nivel (400mts.)
+y en altura un tramo isotérmico desde los 3.200mts en adelante, en el que la
+temperatura se estabiliza a 0°C.
+
+Línea de saturación:: La trazamos partiendo del punto de rocío, y vemos que
+corta a la curva de estado a una altura de 1.600mts.
+
+Si la masa de aire al nivel del suelo llega a calentarse lo suficiente para
+ascender hasta aquí, se condensará formando nubes.
+
+Estamos en el nivel de condensación, que determina la base de la nubes, y
+por lo tanto, nuestro techo de vuelo.
+
+Línea adiabática seca:: La masa de aire a nivel del suelo comenzará a
+calentarse debido a la insolación recibida.
+Si trazamos la línea adiabática seca que pasa por la inflexión de la
+inversión, veremos que la temperatura necesaria para romper esa inversión y
+que comience la actividad convectiva, es de 24°C.
+
+¿Cuánto tardaremos en llegar a la temperatura de 24°C, también llamada en
+este caso `temperatura de disparo`?.
+Existen tablas donde, según la época del año y la latitud del lugar, se
+calcula el tiempo necesario, pero creo que lo más adecuado es haber
+contabilizado en días anteriores el mismo proceso y tener unos datos
+empíricos del aumento de temperatura por cada hora de sol.
+
+El triángulo que determina esta linea, representa la energía de
+calentamiento necesaria para el disparo.
+
+Si trazamos ahora otra linea adiabática seca desde el corte de la `curva de
+estado` con el `nivel de condensación` a 1.600mts., nos dice que esa misma
+masa de aire para alcanzar esa altura y condensarse, necesita que la
+temperatura suba hasta los 31°C.
+Sabiendo la temperatura, podremos también calcular la hora de aparición de
+cúmulos.
+
+Línea adiabática húmeda:: La masa de aire ha subido siguiendo la adiabática
+seca hasta los 1.600mts., donde se condensa y ya como una nube, seguirá por
+la adiabática húmeda, que trazaremos desde el nivel de condensación.
+
+Vemos que la adiabática húmeda corta a la curva de estado en el nivel de los
+3.600mts., determinando que a esta altura estará el `techo de las nubes`.
+
+Si la curva de estado estuviese a la derecha de la línea adiabática húmeda,
+no se formarían nubes debido a la estabilidad.
+
+Si, por el contrario, la curva de estado siguiese siempre a la izquierda de
+la línea adiabática húmeda, habría una gran inestabilidad y las nubes
+crecerían sin medida hasta formar tormentas.
+
+El triángulo determinado entre la curva de estado y la línea adiabática
+húmeda, representa la energía de desarrollo de las nubes.
+
+=== Línea de convergencia
+[author]
+===============
+Pedro Berlinches Bravo; Fuentemilanos, 22 de abril de 1 996
+===============
+
+España es uno de los mejores países del mundo para la práctica del Vuelo a
+Vela, por sus condiciones meteorológicas.
+Dentro de la Península, la mejor zona es, sin duda, la Sierra del Guadarrama
+por su orientación y condiciones.
+
+La convergencia sobre la Sierra de Guadarrama es cada vez más conocida entre
+los volovelistas de Europa.
+Por sus características tan peculiares, se puede divisar a gran distancia,
+incluso desde Madrid.
+
+Cuando existen estas condiciones, se puede observar sobre la Sierra de
+Gredos, Guadarrama y Alto Rey, una gran línea de cúmulos (Cu) a lo largo de
+la montaña.
+
+.Mapa de superficie
+image::mapa-superficie-convergencia.png[pdfwidth=80%]
+
+Empezaré por explicar cuáles son los factores desencadenantes de la
+convergencia que produce la mencionada línea de cúmulos a lo largo de la
+montaña, aunque no siempre es así, pudiéndose formar sobre el llano.
+
+Para que se den estas condiciones, tienen que existir varios factores como
+son la orografía, la temperatura y los vientos dominantes.
+
+La orografía en Castilla y León, presenta unos grandes llanos rodeados por
+montañas: Picos de Europa, Picos de Urbión, y las Sierras de la Cebollera,
+Guadarrama, Gata y Peña de Francia.
+El contraste de temperaturas entre la montaña y el llano hace que los
+vientos estén circulando constantemente de forma similar a como circula la
+brisa marina del mar a la tierra y de la tierra al mar.
+Esta circulación junto a los cambios de temperatura entre la noche y el día,
+conforman el factor más importante para que se genera esta situación
+meteorológica.
+
+.La linea de convergencia posibilita volar a altas velocidades de crucero siempre en excelente ascensión
+image::linea-convergencia.png[]
+
+Analizando la meteorología, se puede comprobar que esta situación se da
+normalmente en condiciones de bajas presiones relativas, situadas al Norte
+de África y altas presiones relativas sobre las Azores, que es un esquema
+típico de la primavera y el verano.
+
+La situación, reflejada sobre el mapa de superficie, es frecuente en el
+verano, haciendo que los vientos converjan sobre el Sistema Central,
+produciendo grandes "calles" de cúmulos, que a veces y debido a la
+intensidad del viento, puede desplazarse a un lado u otro de la Sierra de
+Guadarrama.
+
+Los días en que aparecen estas condiciones, son días de 1 000 Kms.
+Podemos recordar el pasado 29 de Julio de 1 995 con una gran convergencia
+sobre la linea de la Sierra de Guadarrama, Gredos y Alto Rey, con techos
+entre 3 700 mts.
+y 4 100 mts QFE.
+
+También hay que mencionar los 5 primeros días de Agosto de 1 991, que
+seguramente ha sido el mejor año de vuelo en Fuentemilanos, por la
+continuidad de las condiciones para vuelos de 1.000 Kms.
+
+Las condiciones de vuelo en convergencia son difíciles de explicar, porque
+es increíble lo fácil que puede ser mantenerse en la calle de nubes, sin
+despegarse mucho de la base de los Cu, pero tampoco muy cerca, manteniendo
+una separación vertical importante porque con visibilidad reducida puede
+haber riesgo de colisión con los numerosos veleros que se encuentran volando
+a alta velocidad en la convergencia, a la que se conoce como "autopista" ya
+que no hay que virar, sino sólo correr.
+
+A ambos lados de la convergencia hay como unos 20 kms.
+limpios de ascendencias, por lo que cuando queda retirada del aeródromo, no
+hay más remedio que pedir al remolcador que nos lleve hasta ella para
+asegurar nuestro vuelo y disfrutar de su magia.
+
+Otras zonas donde se pueden observar condiciones de convergencia, aunque no
+tan frecuentemente, son el centro de Castilla y León, siguiendo el río
+Duero, dándose por la tarde, y también en el Sistema Ibérico, y a veces
+hasta los Montes de Toledo.
+
+Cuando coinciden las tres zonas: Sistema Central, Sistema Ibérico y Montes
+de Toledo, es posible hacer un vuelo de 1 000 kms, F.A.I.
+
+== La onda de montaña
+
+Las ondas son corrientes de aire laminar que desarrollan un movimiento
+ondulatorio al encontrar un obstáculo adecuado que actúa como elemento
+desencadenante, y debido también a unas condiciones atmosféricas especiales
+que favorecen y mantienen esa ondulación.
+
+.Perfiles de temperatura, viento y ascendencia en onda
+image::perfiles-onda.png[pdfwidth=60%]
+
+Condiciones del terreno:: El obstáculo que desencadena el movimiento
+ondulatorio debe ser una montaña en la que concurran las siguientes
+características:
+
+* Incidencia del viento bastante perpendicular a la línea de la cima.
+* Cima alargada; los obstáculos cortos no son suficientes para producir
+  onda.
+* Cara de barlovento lisa y pendiente suave.
+* Cara de sotavento muy pendiente y con un valle que favorezca la rama
+  descendente de la onda.
+
+Condiciones meteorológicas:: Las condiciones meteorológicas, deben presentar
+dos características fundamentales: Estabilidad y Viento.
+
+La onda es una corriente de aire laminar, que sólo funciona en masas de aire
+estable.
+La inestabilidad y las térmicas romperían el proceso de formación de la
+onda.
+
+Se trata de una capa estable (por isotermia ó por inversión), canalizada
+entre dos capas menos estables que encauzan la onda que va "rebotando"
+arriba y abajo en su ondulación.
+
+El viento es fundamental que alcance por lo menos 15 nudos en la cima de la
+montaña, manteniendo una dirección constante y aumentando en función de la
+altura.
+
+Volar en la onda de montaña:: La onda puede producirse lo mismo en montes
+poco elevados que en sistemas de alta montaña.
+Cada sitio produce su propio "modelo" de onda, cuyo esquema tiende a
+producirse siempre con bastante exactitud.
+
+.Los valores de la ascendencia en la onda pueden superar en mucho las marcaciones de los instrumentos
+image::panel-instrumentos.png[pdfwidth=40%,float=left]
+
+La fase ascendente de la onda nos ofrece la posibilidad de volar en medio de
+una capa laminar que presenta un régimen de ascenso constante y muy fuerte,
+que nos puede elevar hasta alturas considerables.
+Pero, volar en onda requiere de un proceso de aprendizaje minucioso y
+observar unas precauciones especiales debido a las dificultades y peligros
+que encierra.
+
+En la primera fase del vuelo se trata de alcanzar la fase ascendente, pero
+con la dificultad de tener que atravesar la zona de rotores que se forman a
+sotavento de la montaña debido al vacío característico.
+
+Esos rotores están normalmente señalados por sus correspondientes nubes
+rotatorias, y en ellos el aire gira cilíndricamente, produciendo poderosas
+turbulencias que han de afrontar velero y avioneta durante el remolque.
+
+La zona de rotores se ha de atravesar con viento de cara, y pasando por
+turbulencias brutales que pueden alcanzar los 10M/s.
+tanto en ascendencia como en descendencia.
+
+Los valores de la ascendencia en la onda pueden superar en mucho las
+marcaciones de los instrumentos.
+
+.La onda de montaña, plano de ascendencias.
+image::plano-ascendencia.png[]
+
+.Mar de nubes sobre Cotos en vuelo de onda (foto Iñaqui, dic 2024).
+image::mar_nubes_madrid.jpg[]
+
+Una vez superada la zona de rotores y ya en ascenso, es importante vigilar
+la altura para comenzar el uso del oxígeno a partir de los 4.000/4.500Mts
+AGL, ya que es posible alcanzar alturas del orden de los 6.000 a 8.000Mts
+
+La temperatura exterior puede fácilmente ser inferior a los -20° C, por lo
+que es absolutamente necesario ir perfectamente preparado para soportar
+semejantes condiciones.
+
+Es muy importante tener el máximo de información de la previsión de la
+intensidad del viento en altura, pues los valores pueden ser de tal magnitud
+que hagan volar el velero hacia atrás.
+
+Otros factores de riesgo que hemos de vigilar son la formación de nubes
+cuando hay elevada humedad relativa, que pueden soldarse en una capa por
+debajo de nosotros e impedirnos la toma de referencias y saber dónde
+estamos.
+El hielo, que debido a las bajas temperaturas puede llegar a restar eficacia
+al velero, o bien inutilizar nuestro equipo de a bordo.
+Y finalmente, el regreso al campo sabiendo que atravesaremos zonas de fuerte
+descendencia y turbulencia, por lo que es importante contar con una sobrada
+reserva de altura.
+
+== Vuelo en onda en la sierra de guadarrama
+[author]
+===============
+Pedro Berlinches Bravo; Fuentemilanos, 14 de Enero de 1 996
+===============
+
+El final del año 1 995 y los primeros meses del año 1 996, se recordarán en
+toda España por el Otoño e Invierno tan húmedo y frío que hemos tenido, con
+grandes inundaciones primero, grandes nevadas después, y por último, la ola
+de frío con temperaturas muy bajas que afectaron a toda la Península y gran
+parte de Europa.
+Se puede decir que han acabado con la sequía que veníamos sufriendo desde
+cinco años atrás.
+
+Las lluvias de Noviembre y Diciembre, ha sido originadas por una baja
+presión que recorría las costas de España y Portugal, de Norte a Sur,
+mandando sobre la Península fuertes vientos de Sur, dejando mucha agua en el
+Sur y nieve en los sistemas montañosos.
+
+Todo volovelista sabe que cuando el viento incide sobre una cadena de
+montañas, en una cara se produce ladera y en al otra, onda.
+Cuando hay viento del Sur, se forma onda de montaña sobre la Sierra de
+Guadarrama con varias ondas.
+La situación del aeródromo de Fuentemilanos es ideal con su separación de la
+montaña y, sobre todo, por su pista de asfalto y por la decongestion de
+tráfico y ausencia de restricciones.
+
+De los años que llevo en Fuentemilanos, este es el año que más onda hemos
+tenido seguidos.
+Todo se debe a la situación permanente de las bajas presiones sobre España.
+
+El primer día que volamos fué el 25.11.95, y hasta el 14.01.96, que fué el
+último día la situación fué estable con períodos en los que la onda ha
+permanecido durante varios días, mientras duró la situación de fuerte viento
+de Sur.
+
+=== Perfil de la situación de onda
+
+Las condiciones ideales para que se forme onda de montaña sobre la Sierra de
+Guadarrama, son muy parecidas a las condiciones que hemos tenido en
+Diciembre y Enero.
+
+.La onda de montaña en la Sierra de Guadarrama. Mapa de superficie de enero de 1 996
+image::mapa-superficie-ene96.png[]
+
+Como se puede apreciar en el mapa de superficie, es necesario que la baja
+presión se sitúe sobre las costas de Portugal, moviéndose lentamente hacia
+el Golfo de Cádiz, y con un fuerte gradiente de viento muy parecido al de la
+Gota Fría.
+Y, también, una alta presión sobre el centro de Europa, que hace que la baja
+presión situada sobre las costas de Portugal se vea imposibilitada de
+moverse hacia al Norte ó el Este, permaneciendo varios días, inclusive
+semanas, manteniendo la posición.
+
+Sondeo Meteorológico
+
+Para ver las condiciones de vuelo en onda, es muy importante tener el sondeo
+meteorológico y reflejarlo sobre le Diagrama de Stüve.
+Un a vez reflejado, sabremos hasta qué altura se puede subir y el tiempo que
+se puede estar volando, para llevar el oxigeno necesario y la ropa adecuada.
+
+El perfil de la onda del 14 de Enero de 1.996, es uno de los mejores que
+conozco para las condiciones de vuelo en onda de montaña.
+
+.Perfil de la onda
+image::perfil-onda.png[]
+
+Como se puede ver en el diagrama, el gradiente de viento asciende con la
+altura desde los 20Kts.
+en superficie, hasta los 10.000Mts.
+donde hay 60Kts., desde aquí desciende y ya a los 11.000Mts.
+hay 54Kts.
+
+La temperatura es de -44° C y también se puede comprobar las tres zonas de
+Ac lenticulares con el tope en los 10.000Mts.
+En el barograma se puede comprobar que sólo llegué hasta los 6.000Mts, donde
+había -21° C, y es que con esta temperatura por mucho que te abrigues,
+después de 30 ó 40 minutos no hay quién aguante el frío, a pesar de haberme
+preparado bien con pijama de algodón, pantalones, sudadera, chaqueta plumas,
+dos pares de calcetines de lana y suficiente oxigeno para el vuelo.
+
+.Tiempo previsto en FUENTEMILANOS - 14/1/96
+[cols="1,1,1"]
+|===
+| TEMP. MÍNIMA       | 1 °C  14/1/96    |               
+| TEMP. ACTUAL       | 3 °C             |                
+| TEMP. MÁXIMA       | 7 °C             |                
+| TEMP. DISPARO      | = °C             | D.P.: .- 2 °C 
+| HUMEDAD %          | . 90 %           |                
+| CALIDAD TÉRM.      | = = =            |              
+| NUBES              | Sc Ns Ac Lentic. | 500 / 10.000  
+| VIENTO             | SUPERFICIE       | 179    20 Kt. 
+|                    | FL 50            | 184    24 Kt. 
+|                    | FL 100           | 199    26 Kt. 
+|                    | FL 150           | 208    28 Kt. 
+| TÉRMICA            | DESDE  =         | HASTA  =     
+| TORMENTAS %        | MONTAÑA  =       | LLANO  =     
+| OBSERVACIONES:     |*ONDA DE MONTAÑA* |
+|===
+
+Lo que quiero que quede bien claro, es que para volar en onda, además de estar acostumbrado al remolque, que suele ser bastante agitado para velero y remolcador, hay que ser consciente de lo siguiente:
+
+[sidebar]
+****
+* Llevar la ropa adecuada, inclusive en verano.
+* Llevar oxígeno suficiente, no solo para subir, sino también para bajar.
+* Mucha atención a la formación de hielo, sobre todo si se toca la lenticular. El hielo está garantizado en la parte del velero que haya tocado.
+* Si no se está familiarizado con los remolques en zona de rotores, nunca intentarlo solo; subir primero con un instructor.
+* Mucha atención al desplazamiento que nos imprima el viento. Lo mejor es fijar referencias en tierra, es posible que el viento sea tan fuerte que volemos hacia atrás.
+* Ya por último, cuando se entre en tráfico, entrar con altura de más, no importa cuánto de más. Y en final, no sacar aerofrenos hasta estar bien seguro de llegar bien a la pista.
+****
+
+[cols="1,4a,1,4a,1", frame=none, grid=none]
+|===
+|
+|image::barograma.png["Barograma resultante del vuelo en onda hasta 6.000 m de altura el 14.01.96",float=left]
+|
+|image::indicadores-ascenso.png["Aún ascendiendo desde 4.900 m con -20 °C",float=right]
+|
+|
+|Barograma resultante del vuelo en onda hasta 6.000 m de altura el 14.01.96
+|
+|Aún ascendiendo desde 4.900 m con -20 °C
+|
+|===
+
+.Nube rotor correspondiente a la onda de montaña del 14.01.95
+image::nube-rotor.png[]

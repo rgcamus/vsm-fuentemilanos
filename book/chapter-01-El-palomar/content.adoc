@@ -1,0 +1,306 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-01-El-palomar/images
+endif::[]
+= EN EL PALOMAR
+
+Los primeros vuelos tras la suelta los emplearemos en afianzarnos en el manejo del monoplaza, que inicialmente puede parecernos excesivamente ligero y sensible de mandos, debido a que estamos acostumbrados al biplaza de mucha más envergadura y peso, pero al que enseguida tomaremos la medida hasta encontrarnos muy cómodos en él.
+
+Nos esforzaremos en seguir los remolques tal y como nos ha indicado el instructor y también concentrarnos para hacer los tráficos siguiendo estrictamente las normas del aeródromo, tanto en el trayecto como en las alturas y las comunicaciones. Trataremos de ajustarnos a las alturas especificadas para cada trayecto del tráfico para no interferir con otros veleros y vigilaremos frecuentemente la velocidad para no incurrir en pérdida, especialmente en los virajes a base y final.
+
+Inicialmente es conveniente hacer los vuelos con el tren de aterrizaje fuera, porque será un elemento menos a tener en cuenta en las maniobras de aproximación, pero una vez nos vayamos encontrando más seguros, es importante practicar la extensión y retracción del tren y siempre añadiendo el `rueda fuera` a continuación de la comunicación del `viento en cola`. Esta es una regla nemotécnica importante que nos salvará de más de un aterrizaje con el tren dentro.
+
+== Alas de plomo
+
+Enseguida nos daremos cuenta que no es tan fácil mantenerse ahí arriba como parecía en un principio. De pronto nos vemos inmersos de lleno en la fastidiosa etapa de las "alas de plomo". Una vez que nos soltamos de la remolcadora, tras una breve búsqueda de ascendencia, es como resbalar por un tobogán que nos lleva de nuevo a la pista en tiempo récord.
+
+.Alas de plomo
+image::alas-de-plomo.png[fit=none,pdfwidth=75%]
+
+No hay que preocuparse, lo único que ocurre es que ya no tenemos al instructor en el asiento de atrás y pilotamos un velero mucho más ligero y ágil al que debemos acostumbrarnos, y eso....... lleva algún tiempo. Mientras, debemos plantearnos claramente que, en este punto, nuestros objetivos sean:
+
+Las siguientes horas de vuelo debemos centrarnos en estos puntos y trabajarlos con interés para poder superar esta fastidiosa etapa.
+
+*   Trabajar intensamente el viraje a térmica.
+*   Familiarizarnos con las referencias cercanas al aeródromo.
+
+== Antes del despegue
+
+Es muy conveniente observar cómo les va a nuestros compañeros más experimentados para fijar en nuestra mente los puntos en los que los vemos virar y ascender, porque posiblemente allí podamos encontrar térmicas interesantes. Nos prepararemos para el despegue una vez constatemos que las térmicas "trabajan" bien a la vista de lo que ocurre en el aire. No despegaremos demasiado pronto, sino que más bien esperaremos hasta bastante después de mediodía y una vez haya despegado el grueso de los pilotos más expertos.
+
+[sidebar]
+Analizar las primeras anotaciones de mi libro de vuelos después de la suelta me lleva a la conclusión de que nunca llegué a hacer un vuelo de más de 20 minutos habiendo despegado antes de las 14:00 horas. Mi prisa por volar, e incluso la insistencia de algunos compañeros, hacía que despegase muy pronto sin que las térmicas estuviesen realmente activas, o por lo menos, lo suficientemente activas para un novato como yo.
+
+También debemos familiarizarnos con los lugares que, casi invariablemente, producen ascendencias. En nuestro caso, hay lugares muy cercanos al aeródromo, que frecuentemente ofrecen térmicas "de servicio", como son los pueblos de Abades y Fuentemilanos, la granja de cerdos al SW, y la vaguada al W de la pista.
+
+== El remolque
+
+Es el comienzo de nuestro vuelo y debemos afrontarlo con las ideas claras para no perder el tiempo. Para un piloto inexperto, soltarse a sólo 300 m de altura por ahorrar unas pesetas en la facturación, es un pésimo negocio que a la postre, saldrá mucho más caro e insatisfactorio.
+
+Lo recomendable en esta etapa, es soltarse siempre en térmica y nunca a menos de 500-600 m. Esto nos dará un buen margen en el probable caso de que nos hayamos equivocado al soltarnos y no encontremos una térmica donde parecía estar. Podremos utilizar unos 200 m para planear por los alrededores del aeródromo buscando la ansiada ascendencia, antes de decidirnos a entrar en tráfico.
+
+Durante el remolque, podremos apreciar que el variómetro marca casi siempre positivo, pero no debemos impresionarnos, ya que el efecto del remolque distorsiona la lectura.
+
+Debemos fijarnos preferentemente en la sensación de empuje al penetrar en térmica, y sobre todo, en los súbitos saltos de la avioneta, que de repente sube con decisión por encima de nuestro nivel. Esto ocurre porque ha penetrado en una ascendencia que, al cabo de unos instantes, nos elevará a nosotros sin casi necesidad de tirar de la palanca.
+
+En ese momento, posiblemente estemos en térmica y es buena ocasión para tirar de la bola amarilla y soltarnos del remolque. Sin embargo, si durante el remolque, al encontrar una ascendencia fuerte aún no tenemos la altura suficiente, nos contentaremos con memorizar su posición, ya que nos puede servir más adelante. Hay que tener en cuenta que esos "tirones" pueden ser una simple pompa que nos dejaría en la estacada después de un par de virajes.
+
+== La dirección del viento
+
+Es un factor muy a tener en cuenta y que ya habremos observado antes del despegue.
+
+Normalmente, si hubiese viento de intensidad significativa, el piloto de remolque hará su circuito a barlovento del aeródromo, y nosotros, iniciaremos la búsqueda de ascendencias cuidando de mantenernos en esa posición y vigilando la deriva que nos pueda alejar excesivamente del aeródromo dejándonos a sotavento del mismo.
+
+.Verano del 93
+[sidebar]
+****
+Mi compañero despega en uno de sus primeros vuelos solo, y tras un buen remolque, se suelta sobre Abades en buena térmica y comienza a subir inmediatamente.
+
+El viento del SW le imprime un acusada deriva hacia el llano y él, entretenido en centrar la térmica, no se da realmente cuenta de lo que sucede. En un momento determinado, la térmica se fragmenta, la pierde y comienza a descender; insiste en buscarla "donde estaba" y cuando se da cuenta se encuentra bastante bajo y el viento de cara le impide regresar con seguridad al campo. La toma fue en un sembrado de las afueras de Abades, a escasa distancia de la cabecera 16.
+****
+
+Una vez en ascendencia, debemos concentrarnos en el pilotaje procurando virarla y centrarla, pero sin olvidar los siguientes puntos:
+
+*   Vigilar que la velocidad sea superior a la de pérdida.
+*   Controlar el espacio aéreo a nuestro alrededor, hay muchos veleros que nos acompañan.
+
+Es absolutamente prioritario vigilar constantemente la velocidad del velero para no bajar de la velocidad de pérdida que nos viene indicada en el anemómetro y varía dependiendo de las características del velero.
+
+Pensemos que la entrada en pérdida a baja altura ha sido la causa principal de la mayoría de los accidentes fatales en el V.S.M.
+
+La pérdida sobreviene cuando, por falta de velocidad, se rompe la sustentación que produce el perfil del ala y el velero, literalmente, se desploma. En los veleros más modernos, este desplome puede ser leve y por derecho, pero en otros podría llevar a una caída en barrena de manera sorpresiva de forma que se pueden perder muchos metros antes de recuperarla.
+
+Observaremos siempre la velocidad a la que volamos para no incurrir en situación de pérdida, pero muy especialmente en tres situaciones:
+
+*   En tráfico de aproximación, concretamente en los virajes a base y final.
+*   Virando a térmica, ya que un desplome puede afectar gravemente a veleros volando a niveles inferiores.
+*   Volando en ladera, dada la cercanía del terreno y la posibilidad de fuertes turbulencias.
+
+.La pérdida: ¡INSTRUCTORRRRR INSTRUCTORRRRRR!
+image::perdida.png[]
+
+== El tráfico de aproximación
+
+Es una maniobra en la que debemos estar especialmente alerta ya que concurren varios factores que la hacen potencialmente peligrosa, como es la posible cercanía de otros veleros también en tráfico, el cansancio después de varias horas de vuelo, el vuelo a baja cota, etc.
+
+Al acercarnos al aeródromo después de un vuelo más o menos largo, nos cercioraremos de la dirección del viento y la pista en servicio, bien llamando por radio o bien mirando la dirección que señala la manga.
+
+Nos ceñiremos estrictamente a las normas del aeródromo para el tráfico, especialmente la zona asignada al V.S.M., las comunicaciones y las alturas.
+
+Al entrar en "viento en cola" es importante hacerlo a la altura especificada, ya que si cada velero entra a una altura distinta, en caso de coincidir varios en tráfico, se pueden producir adelantamientos e interferencias muy peligrosas con el consiguiente desbarajuste en la toma.
+
+.Pista e instalaciones de Fuentemilanos vista desde el tramo final para la 34
+image::trafico.png[]
+
+Mientras hacemos el "viento en cola" es positivo mirar el estado de la pista y cerciorarnos de si existen obstáculos, bien en cabecera, bien en medio de la pista, así evitaremos sorpresas cuando nos encontremos en tramo "final".
+
+Tras la toma, desviaremos nuestro velero hacia la rodadura, procurando quedar lo suficientemente lejos de la pista para no interferir con maniobras de despegue o aterrizaje.
+
+En caso de estar algún velero parado en medio de la pista, siempre podremos usar la pista auxiliar de hierba y quedarnos estacionados en ella hasta que el jefe de operaciones nos autorice a cruzar hacia la rodadura.
+
+== Virando a térmica
+
+El "centrado" de la térmica es la técnica fundamental del V.S.M. y sólo se puede adquirir y mejorar con la práctica constante y procurando volar en todo tipo de condiciones, no sólo en los días buenos.
+
+Hemos de intentar volar con "buen estilo" y tener en cuenta lo siguiente:
+
+*   Volar con la "lanita" centrada, evitando situaciones de resbale o de derrape que perjudican el rendimiento del velero.
+*   Evitar, mientras no se tenga seguridad en el viraje de térmicas, virar a menos de 300 m de altura sobre el terreno.
+*   Saber dónde estamos en cada momento; no debemos virar una térmica si, por ejemplo, estamos molestando el tráfico de aproximación al aeródromo.
+
+Ya dentro de la térmica, hemos de buscar la zona de máxima ascensión, y debemos concentrarnos no sólo en los instrumentos (Variómetro), sino que poco a poco, iremos captando esa sensación de empuje o aceleración que produce la corriente ascendente cuando impulsa nuestro velero hacia arriba. Llegar a distinguir esa sensación es un objetivo que perseguiremos hasta que, con la práctica, sea nuestra.
+
+También es importante controlar las referencias del terreno mientras viramos, pues nos servirán para controlar la deriva que nos imprima el viento, y para "fijar" mejor las zonas de más ascendencia.
+
+=== ¿Cómo centrar la térmica?
+
+Hemos de tener muy claro que la mitad de las veces nos encontraremos con ascendencias rotas o muy estrechas y turbulentas, que convertirán nuestro vuelo en algo más parecido a un rodeo a caballo que a otra cosa.
+
+En estos casos, cualquier teoría es inaplicable, y sólo cuenta la experiencia adquirida tras muchas horas de lucha con distintos tipos de condiciones.
+
+Si nos centramos en las térmicas "normales", tendremos que reaccionar cuando en medio del vuelo sentimos ese "empuje", signo inequívoco de que atravesamos una ascendencia.
+
+Posiblemente un ala se elevará y será hacia allí donde giremos preferentemente.
+
+El variómetro nos avisará y habremos de esperar a completar un giro para poder establecer si hemos pillado la térmica de lleno o estamos desplazados del centro.
+
+Es importante practicar el giro en ambos sentidos. Pronto nos daremos cuenta que nos sentimos más "seguros" virando en un sentido preferido, pero hemos de esforzarnos en aprender a girar también en sentido contrario, pues es necesario que sepamos volar con igual seguridad en ambos sentidos.
+
+=== ¿Velocidad?
+
+La velocidad a la que se ha de virar la térmica depende del "estilo" del piloto y de las condiciones que presente la ascendencia, pero como norma general deberíamos virar a la velocidad que indica el manual de vuelo como `CIRCLING SPEED (En el ASTIR de 80 a 85 Km/h)`, siempre con margen suficiente por encima de la velocidad de pérdida.
+
+=== ¿Inclinación?
+
+La inclinación a la que viraremos depende de la naturaleza de la térmica; si es muy amplia, poca inclinación, si es estrecha, el mismo velero nos exigirá más "agresividad" en el giro.
+
+Trataremos de adquirir la práctica suficiente para perder el mínimo de tiempo en centrar la térmica.
+
+Nos acercaremos al centro de más ascendencia mediante una combinación entre variaciones en la inclinación y en el rumbo:
+
+*   Menor inclinación a más fuerza ascensional.
+*   Mayor inclinación a menor fuerza ascensional.
+*   Enderezar brevemente el rumbo hacia la zona donde, en el giro anterior, detectáramos mayor valor ascensional.
+
+.Virando a térmica: Las laderas de roca viva son excelentes productoras de térmica. Aquí estamos virando sobre la mujer muerta
+image::termica.png[fit=none,pdfwidth=75%]
+
+[sidebar]
+En mi primer vuelo con un instructor de alto nivel y un velero también de alto nivel, la primera sorpresa fue que la técnica de centrado que usaba el instructor, era pura y simplemente la misma que la que yo usaba, aun siendo un novato: Enderezar levemente hacia donde "intuía" que estaba el centro de la térmica. Pero el problema no es la técnica en sí, sino la "intuición". No es lo mismo la "intuición" de un novato que la de un piloto con miles de horas de V.S.M.
+
+== El espacio aéreo
+
+El viraje de térmicas en las cercanías del aeródromo se hace normalmente en grupo, por lo que la vigilancia del espacio aéreo es primordial para evitar situaciones arriesgadas que puedan ocasionar una colisión en vuelo.
+
+Debemos buscar un compromiso entre la atención a nuestro entorno y la concentración necesaria para centrar la térmica que estemos virando.
+
+Básicamente las normas a seguir cuando viramos un térmica en grupo, son las siguientes:
+
+=== Entrada:
+
+*   Guardar el mismo sentido de giro que los demás.
+*   Comenzar con un círculo más exterior e ir cerrándolo poco a poco.
+*   Hacerse visible a los demás.
+*   No cortar trayectorias, ni estorbar.
+*   Guardar distancia de seguridad con los demás veleros.
+
+=== En giro:
+
+*   No colocarse debajo de otro velero, una reducción súbita de velocidad, nos puede llevar a colisionar con él.
+*   Los más lentos en ascender, tienen preferencia.
+*   Mantener una estrecha vigilancia de todos nuestros compañeros.
+
+=== Abandono:
+
+*   Normalmente, por el centro de la térmica, siempre que no molestemos a nadie.
+
+.El espacio aéreo: Virando a térmica en grupo
+image::espacio-aereo.png[]
+
+== Volando en ladera
+
+Tenemos una excelente ladera bien cerca del aeródromo: La Mujer Muerta.
+
+Cuando volemos en ladera hemos de tener muy presente la escasa distancia que nos separa de la montaña y la posibilidad de fuertes turbulencias, por lo que debemos seguir al pie de la letra las siguientes normas:
+
+*   Vigilar de manera muy especial el tráfico en la ladera si volásemos con otros veleros.
+*   Volar con velocidad suficiente (mínimo 5 ó 10 Km/h por encima de la velocidad de máximo planeo) y con la "lanita" centrada.
+*   Los virajes en "ocho" y siempre hacia el valle.
+*   Controlar que el arrastre no nos lleve hacia sotavento, manteniendo el ángulo de deriva necesario.
+*   Si te encuentras de frente con otro velero, tiene prioridad el que tenga el plano derecho hacia la ladera.
+*   Si estás a la cola de un velero muy lento, adelantar por el valle.
+
+.Vuelo en ladera: La mujer muerta
+image::ladera.png[]
+
+.<- Vertiente para el vuelo en ladera | vertiente de... "irás y no volverás" ->
+image::barlovento-sotavento.png[]
+
+[sidebar]
+****
+Me gusta acercarme a la montaña de la siguiente manera:
+
+Intento alcanzar la térmica "de servicio" sobre la granja de los cerdos (Punto Charlie).
+
+Una vez alcanzados unos 1.500 m, salgo hacia Otero a velocidad de máximo planeo, aminorando la velocidad si hay ascendencia y acelerando si hay descendencia.
+
+Sobre Otero, aproximadamente sobre el gran estanque de fondo azul, tiene que estar la siguiente térmica "de servicio", y una vez encontrada, la apuro hasta subir a tope de nubes y desde aquí directo por la cresta de la sierra hasta la Mujer Muerta.
+
+Los días con viento de N moderado y al atardecer cuando el sol calienta la ladera, volar sobre ella es un auténtica delicia. Incluso he tenido el privilegio de volar junto a un grupo de seis ó siete majestuosos buitres que frecuentan la zona.
+****
+
+== El palomar
+
+A medida que vamos ganando seguridad en nuestros vuelos, nos daremos cuenta que se va abriendo ante nosotros un espacio que denominaremos coloquialmente "El Palomar", y cuyos límites son:
+
+*   **S**: La mujer Muerta.
+*   **SW**: El embalse de San Rafael / Aeródromo de Villacastín.
+*   **W**: El Aeródromo de Campolara.
+*   **N**: La arboleda del río / Las canteras de grava.
+*   **E**: Segovia.
+*   **SE**: San Ildefonso - La Granja / Peñalara.
+
+"El Palomar" va a constituir nuestro "territorio de vuelo" por algún tiempo, y no debemos acomplejarnos por el terror que podamos sentir de alejarnos más allá de sus límites, pues hay muchas cosas que podemos y debemos hacer dentro de sus límites y que nos valdrán de mucho en el futuro, si sabemos aprovechar lo que nos ofrece.
+
+Poco a poco iremos visitando los límites ya mencionados, y otros puntos de referencia importantes como son el Palacio de Riofrío, la Laguna de las Cigüeñas, Otero de Herreros, Muñopedro, etc.
+
+Nos haremos con un mapa de la zona y comenzaremos nuestro trabajo con él, acostumbrándonos a identificar carreteras, tendidos eléctricos, ríos, vías férreas, etc.
+
+También haremos prácticas fijándonos puntos a visitar, identificándolos en el mapa antes de despegar para situarnos mentalmente, e intentar "cerrar" trayectos de poca distancia y siempre a "tiro de piedra" del aeródromo. Podemos experimentar con el planeo del velero para conocerlo mejor y aprender a calcular intuitivamente las distancias; por ejemplo, si nos encontramos sobre Segovia a 2.000 m, podemos planear hasta el aeródromo en línea recta sin virar a térmica, y ver cuántos metros perdemos.
+
+En esta etapa nos centraremos en los siguientes trabajos:
+
+*   Viraje a térmica con todo tipo de tiempo (No sólo los días buenos).
+*   Navegación dentro de la zona identificando referencias en el mapa, conocer bien el territorio, trabajar trayectos cortos.
+*   Conocer nuestro velero, tomando conciencia de su capacidad de planeo y sus características de vuelo.
+*   Hacer vuelos de entrenamiento para la permanencia. Comenzar con vuelos de 1 hora, e ir aumentando progresivamente la duración hasta las 3-4 horas, antes de intentar la prueba.
+
+.Mapa del Palomar
+image::mapa-palomar.png[]
+
+[sidebar]
+****
+Me agobia la sensación de "no llegar", sé que teóricamente tengo la altura suficiente, pero se me antoja que no llego al campo desde donde estoy.
+
+La tendencia es a acelerar el velero para intentar llegar antes, pero pronto te das cuenta que lo que haces es perder altura miserablemente por volar demasiado rápido.
+
+Pronto descubro la forma de "ahorrar" el máximo de altura: volar a velocidad de mínimo descenso `(75 Km/h para el ASTIR)` cuando hay ascendencia y acelerar sólo hasta los 110 Km/h si la descendencia es muy fuerte. A velocidades mayores, la pérdida de altura es demasiada y no llegaría más lejos aunque vaya más rápido.
+****
+
+== La liebre
+
+Una técnica que puede aportarnos mucha experiencia, es volar siguiendo el velero de un compañero más experimentado que haga de "liebre", es decir, que vaya por delante nuestro tanteando el territorio y nos indique qué dirección seguir para mantenernos en zona de buena ascendencia sin tener que afrontar los riesgos de volar solos sobre territorio desconocido.
+
+Para volar acompañado de otro velero, es fundamental establecer una buena comunicación por radio, pero cuidándonos mucho de usar una frecuencia de charla `(130.575)` y nunca atosigar la frecuencia del aeródromo con nuestras conversaciones. También debemos programar el vuelo de antemano, porque es frecuente perderse de vista al volar distintas alturas.
+
+.Verano 1 994
+[sidebar]
+****
+Volando en las cercanías del campo, comunico con un compañero más novato que desea seguirme a "explorar" la zona de Campolara. Comunico cada rato con él y le señalo el camino a seguir y las térmicas que voy encontrando.
+
+Llego a Campolara y comienzo a virar una térmica excelente, trato de centrarla mientras mi compañero me llama desorientado:
+
+[verse]
+----
+- Oye que no sé dónde estoy y ¡no te veo!.
+- Dime, ¿qué terreno ves?.
+- Estoy sobre una urbanización grande con piscinas cerca de una
+  autopista.
+- Debe ser la A-6, estás muy cerca, hacia el N debes divisar bien 
+  la pista de Campolara.
+- Uf !!...Ya la tengo !!.
+- Ven hacia aquí, estoy virando una térmica a 1.600 m justo 
+  en la vertical.
+----
+****
+
+Esta técnica es muy positiva para visitar los puntos de viraje que no se conocen aún, o bien explorar territorios como la montaña, etc., aportándonos confianza en nosotros mismos y ampliándonos los límites del espacio "conocido".
+
+También sirve para tomar conciencia de las posibilidades del velero de manera que aprendamos a calcular y evaluar mejor la senda de planeo sin temor a quedarnos muy cortos o muy largos.
+
+.La liebre
+image::liebre.png[]
+
+.Vuela alto Antonio !!
+image::new-york.png[it=none,pdfwidth=80%]
+
+.Julio 1 992
+[sidebar]
+****
+Estoy virando un térmica sobre Segovia y el vario me indica 4m/s., alcanzo la base del cúmulo a unos 2.000 mts., me siento exultante y feliz, hasta que miro al E y veo la sierra alejarse hasta La Salceda.
+
+Pienso que nunca seré capaz de saltar fuera de los límites de El Palomar y ya estoy empezando a estar harto. Pero la verdad es que impone respeto.
+
+Un velero se incorpora unos metros por debajo y me llama:
+
+[verse]
+----
+- Qué haces ahí dando vueltas como un tonto?, vente
+  hacia La Salceda !!.
+- No sé,... no me atrevo!.
+- Pero si tienes más de 2.000 mts, venga sígueme !!.
+
+No me lo pensé más y dije BANZAI !!!. Fué la primera vez que salté fuera de los límites de El Palomar. Llegué a La Salceda y volví con el pulso acelerado, pero con la satisfacción de haber llegado hasta allí !!.
+----
+****
+

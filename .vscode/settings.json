@@ -1,0 +1,8 @@
+{
+    "asciidoc.use_asciidoctorpdf": true,
+    "asciidoc.preview.useEditorStyle": false,
+    "asciidoc.preview.style": "book/themes/",
+    "cSpell.words": [
+        "pdfwidth"
+    ]
+}

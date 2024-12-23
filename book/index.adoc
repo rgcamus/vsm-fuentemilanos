@@ -1,0 +1,69 @@
+// Esto es un comentario
+[separator=::]
+= VSM Fuentemilanos
+:author: Coordinado por Fernando Correa
+:coordinator: Fernando Correa
+:designer_and_editor: Tito Klein
+:illustrator: Manuel Martínez
+:supervisor: Miguel Cruchaga
+:contributors: Fernando Lázaro, José Gresa, Pedro Berlinches, Antonio Gonzalez
+:copyright: 1996 Fuentemilanos
+:email: fuentemilanos@fuentemilanos.com
+:revnumber: v2.0
+:revdate: Junio 1996
+:revremark: Borrador
+:doctype: book
+:appendix-caption: Apéndice
+:appendix-refsig: Apéndice
+:caution-caption: Precaución
+:chapter-signifier: Capítulo
+:chapter-refsig: Capítulo
+:example-caption: Ejemplo
+:figure-caption: Figura
+:important-caption: Importante
+:last-update-label: Última actualización
+:listing-caption: Listado
+:note-caption: Nota
+:part-signifier: Parte
+:part-refsig: Parte
+:section-refsig: Sección
+:table-caption: Tabla
+:tip-caption: Consejo
+:toc-title: Índice
+:untitled-label: Sin título
+:version-label: Versión
+:warning-caption: Advertencia
+:leveloffset: +1
+:front-cover-image: image:cover.jpg[fit=cover]
+:sectnums:
+:sectlinks:
+:toc: macro
+:toclevels: 3
+:description: Una guía para pilotos noveles de Vuelo Sin Motor (VSM), que recopila experiencias y consejos para superar las primeras etapas del aprendizaje, desde las "alas de plomo" hasta la realización de vuelos de distancia, con el objetivo de facilitar el acceso a esta apasionante actividad.
+:keywords: Vuelo Sin Motor, VSM, Fuentemilanos
+:icons: font
+:icon-set: fas
+:pdf-themesdir: {docdir}/themes
+:pdf-fontsdir: {docdir}/fonts
+:pdf-theme: basic
+:pdfmark: true
+:imagesdir: ./images
+:xrefstyle: short
+:source-highlighter: pygments
+:pygments-style: vs
+:pygments-linenums-mode: table
+:source-language: javascript
+
+include::creditos.adoc[]
+
+include::introduccion.adoc[]
+
+toc::[]
+
+include::chapter-01-El-palomar/content.adoc[]
+
+include::chapter-02-Atmosfera/content.adoc[]
+
+// include::zz-borrar/content.adoc[]
+
+// include::chapter-03-How-Planet-Systems-Work/content.adoc[]

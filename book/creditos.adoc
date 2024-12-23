@@ -1,0 +1,13 @@
+[preface]
+
+= Créditos
+
+* Coordinación: Fernando Correa
+* Diseño y edición: Tito Klein y Camus
+* Ilustraciones: Manuel Martínez
+* Supervisión: Miguel Cruchaga
+* Colaboradores:
+     - Fernando Lázaro
+     - José Gresa
+     - Pedro Berlinches
+     - Antonio Gonzalez

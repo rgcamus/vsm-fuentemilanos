@@ -1,0 +1,7 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-03-Los-primeros-kilometros/images
+endif::[]
+= LOS PRIMEROS KILÓMETROS
+
+
