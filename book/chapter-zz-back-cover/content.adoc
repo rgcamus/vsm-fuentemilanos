@@ -1,0 +1,6 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-zz-back-cover/images
+endif::[]
+
+image::cover.pdf[page=2,fit=cover]

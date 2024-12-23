@@ -2,6 +2,961 @@
 ifeval::["{docname}" == "index"]
 :imagesdir: chapter-03-Los-primeros-kilometros/images
 endif::[]
+
 = LOS PRIMEROS KILÓMETROS
 
+.El vuelo a distancia el mejor aliciente del vuelo sin motor. El desafío de hacer kilómetros es la esencia del progreso del pilotaje y una inagotable fuente de satisfacción
+image::haciendo-kilometros.png[]
 
+Ha llegado el momento de abandonar los alrededores del aeródromo y comenzar
+a viajar, para ello necesitamos conocer suficientemente nuestro velero y sus
+capacidades, saber navegar efectivamente, ser capaces de comunicarnos
+adecuadamente por radio, tener muy claro que hacer en caso de una toma fuera
+de campo, dominar aceptablemente la técnica de fotografiar los puntos de
+viraje, etc.
+
+Sólo nos queda escoger el trayecto, planificar adecuadamente el vuelo y
+adentrarnos en un nuevo mundo desconocido hasta ahora.
+
+.Gráfica de la curva polar del velero
+image::polar-velero.png[]
+
+== Curva polar del velero
+
+Durante el planeo, el velero transforma la energía potencial que le confiere
+la altura en avance, pero los kilómetros que se avanzan, suponen un
+"consumo" de esa altura.
+
+Cuanto menor sea el "consumo" de altura para recorrer una distancia
+determinada, más efectivo es el planeo del velero.
+
+También ocurre que el "consumo" de altura no es constante, sino que aumenta
+más que proporcionalmente a la velocidad a que se avance.
+
+La curva polar es un diagrama en el que se resumen las características de
+planeo de un tipo de velero determinado.
+
+[sidebar]
+****
+En el eje vertical se representa la velocidad de descenso en metros x
+segundo y en el eje horizontal la velocidad de vuelo en kilómetros x hora.
+La curva resultante nos indica a qué ritmo desciende el velero en función a
+la velocidad a la que vuela.
+****
+
+Para el `ASTIR CS`, la curva nos indica que a 65Km/h sobreviene la pérdida,
+pero a unos 75Km/h la velocidad de descenso es mínima (0,6 m/s), y a 95
+Km/h, aunque la velocidad de descenso es mayor (0,7m/s), sin embargo, nos
+ofrece mayor distancia recorrida que cualquier otra, por lo que la
+llamaremos velocidad de máximo planeo.
+
+Existe otra curva superpuesta y es la que resultaría si volásemos con los
+depósitos de lastre cargados a su máxima capacidad.
+(2 x 50 litros = 100 litros). Con esto la masa del velero pasa de 350Kp. a 450Kp.
+
+Con lastre nos costará más subir en ascendencia, pero una vez arriba
+contaremos con mucha más energía potencial para transformar en cinética, que
+desplazará decididamente hacia adelante las magnitudes de la polar, situando
+la velocidad de máximo planeo en 105Km/h, aunque también aumentan las
+velocidades de pérdida y viraje, debido al mayor peso.
+
+El lastre se utiliza para "correr más" en los vuelos de distancia y porque,
+como podemos ver en la comparación de ambas curvas, a partir de los 105Km/h.
+el comportamiento del velero mejora con el lastre, situando la curva de
+450Kp.
+por encima.
+
+Estudiar la polar de un tipo de velero que vamos a volar por primera vez,
+nos puede aportar muchos datos importantes sobre el comportamiento del mismo
+y es tan importante como pueda serlo la realización de un chequeo pre-vuelo.
+
+== DISTANCIAS DE PLANEO
+
+Para familiarizarnos con las posibilidades de planeo que ofrece cada velero
+en función de su coeficiente, observaremos el CUADRO DE DISTANCIAS DE
+PLANEO, que es una tabla de doble entrada, en la que se representan la
+altura necesaria para recorrer una distancia dada en kilómetros según un
+coeficiente de planeo determinado.
+
+El recuadro en la figura nos dice que necesitamos 750 mts.
+de altura para un planeo de 30 Kms, con un velero que nos ofreciera un
+coeficiente de 1:40.
+
+Hay que recordar que el coeficiente de planeo de un velero está calculado
+bajo condiciones atmosféricas ISA, con viento en calma y a la velocidad de
+máximo planeo del velero.
+
+.Cuadro de distancias de planeo
+image::tabla-distancias-planeo.png[]
+
+// .CUADRO DE DISTANCIAS DE PLANEO
+// [cols="2,7*"]
+// |====
+// |DISTANCIA DE PLANEO | 10 Kmts. | 20 Kmts. | 30 Kmts. | 40 Kmts. | 50 Kmts.
+// |COEFICIENTE | \multicolumn{5}{c|}{Altura necesaria en metros.}
+// |01:30 | 340 | 670 | 1.000 | 1.350 | 1.650
+// |01:35 | 290 | 580 | 850 | 1.150 | 1.450
+// |01:40 | 250 | 500 | 750 | 1.000 | 1.250
+// |01:45 | 220 | 450 | 650 | 900 | 1.100
+// |01:50 | 200 | 400 | 600 | 800 | 1.000
+// |====
+
+.Cuadro de distancias de planeo para Astir CS. Coeficiente teórico 1:37 pero estimado en 1:30. A velocidad de máximo planeo 85 Km/h. Con viento en calma.
+image::tabla-distancias-planeo-astir-cs.png[]
+
+// .CUADRO DE PLANEOS
+// [cols="6*"]
+// |====
+// ^| Para Astir CS ^| HASTA FUENTE DESDE: ^| DISTANCIA KMTS. ^| ALTURA MTS. ^| CIRCUITO MTS ^| TOTAL MTS.
+
+// ^| Coeficiente teórico 1:37 ^| SEGOVIA | 12 | 400 | 300 | 700
+// ^| pero estimado en 1:30. ^| VILLACASTIN | 18 | 600 | 300 | 900
+// ^| A velocidad de máximo ^| LA GRANJA | 20 | 670 | 300 | 970
+// ^| planeo 65 Km/h. ^| CAMPOLARA AERODROMO | 20 | 670 | 300 | 970
+// ^| Con viento en calma. ^| LA MUJER MUERTA | 20 | 670 | 300 | 970
+// ^| CARBONERO EL MAYOR | 25 | 840 | 300 | 1.140
+// ^| CRUZ DE HIERRO | 30 | 1.000 | 300 | 1.300
+// ^| PEÑALARA | 30 | 1.000 | 300 | 1.300
+// ^| SANCHIDRIAN AERODROMO | 32 | 1.070 | 300 | 1.370
+// ^| LA SALCEDA AERODROMO | 35 | 1.170 | 300 | 1.470
+// |====
+
+== VSM en Fuentemilanos
+
+En Fuentemilanos, la atmósfera ISA tendría unos valores aproximados de 9º C
+y unos 910 Mb.
+de presión, por lo que cada vez que tengamos que hacer cálculos basados en
+el coeficiente de planeo del velero, hemos de tener en cuenta que, sobre
+todo en verano, estos valores se ven sustancialmente alterados.
+
+Sin embargo, para calcular la altura necesaria para un planeo determinado,
+lo que realmente tiene importancia en la práctica, es la posibilidad de
+encontrar ascendencia y la dirección del viento.
+
+Si trazamos un círculo de 20 Kmts.
+con centro en Fuentemilanos, vemos que prácticamente necesitaríamos la misma
+altura para planear hasta el aeródromo desde La Granja que desde Campolara.
+
+Si tuviésemos viento fuerte del Oeste, veríamos que con viento en cola
+necesitamos menos altura para planear desde Campolara a Fuentemilanos y más
+altura para planear desde La Granja a Fuentemilanos.
+
+La variación de la altura necesaria para el planeo es proporcional a la
+intensidad del viento: más altura si tenemos el viento en contra y menos
+altura si lo tenemos a favor.
+
+Es conveniente tener siempre a mano un cuadro de distancias de planeo hasta
+que nos acostumbremos al velero y conozcamos sus prestaciones, pero siendo
+conscientes de que se trata de un conjunto de datos teóricos y nunca una
+norma infalible de vuelo.
+
+[sidebar]
+****
+Con fuerte viento del NW me dejé arrastrar hasta Peñalara bajo cúmulos muy
+prometedores y realmente disfruté mucho durante unos 45 minutos antes de
+decidirme a volver al campo para aterrizar.
+Salí de Peñalara con unos 2.100 mts.
+y puse proa hacia Fuentemilanos, para ver que con una indicada de 95 Km/h.
+apenas "pasaba el terreno" debajo de mí, debido al fuerte viento de cara.
+Entré en una zona de fuerte descendencia y aceleré con las agujas del
+altímetro girando hacia abajo de manera inquietante.
+Traté de no preocuparme y me dije que un poco de viento no podía estropearme
+una tarde tan agradable, pero llegué al campo con sólo 250 mts., los justos
+para entrar en tráfico con el susto metido en el cuerpo.
+****
+
+== La navegación visual
+
+Estamos llegando al momento en el que se hace necesario comenzar a practicar
+la navegación visual en serio, ya que esta disciplina será muy importante en
+los futuros vuelos de distancia.
+
+En más de una ocasión nos enfrentaremos con la tarea de tener que buscar un
+punto de viraje sin conocerlo previamente y sólo dispondremos de la ayuda de
+un buen mapa y, en el mejor de los casos, de una foto del lugar y de las
+indicaciones de los compañeros.
+
+Debemos practicar tratando de identificar desde el aire no sólo pueblos y
+ciudades, sino todo tipo de referencias importantes como pantanos, vías
+férreas, silos, puentes, etc.
+
+== Organizar un mapa
+
+Hagámonos con un buen mapa, preferentemente de escala 1:400.000 y de un
+tamaño que incluya el sistema central como mínimo desde El Barco de Ávila al
+SW, hasta San Esteban de Gormaz al NE, limitando al N con el río Duero, y al
+S con el TMA de Madrid.
+
+Este tamaño es muy manejable en una cabina tan limitada de espacio como es
+la de un velero, y contendrá toda la información necesaria para vuelos de
+hasta 500 o más Kms.
+
+El mapa del Servicio Geográfico del Ejército es muy válido (aunque un poco
+anticuado), y necesitaremos componerlo con las esquinas de 4 sectores
+distintos, pues no hay ningún sector que abarque por sí solo toda el área
+que nos interesa.
+La serie es la 4-C, de escala 1:400.000, y necesitaremos los siguientes
+mapas:
+
+* 2-2 Valladolid Esquina derecha inferior
+* 3-2 Burgos Esquina izquierda inferior
+* 2-3 Salamanca Esquina derecha superior
+* 3-3 Madrid Esquina izquierda superior.
+
+=== Volcar datos importantes
+
+Antes de plastificar el mapa con plástico adhesivo transparente, debemos
+volcar ciertos datos importantes que clasificaremos en tres grupos:
+
+* Círculos de distancia y orientación.
+* Puntos de viraje y Aeródromos alternativos.
+* Referencias de Coordenadas.
+* Frecuencias y teléfonos.
+* Zonas Restringidas.
+
+==== Círculos de distancia y orientación
+
+Se trazarán siguiendo siempre criterios de comodidad y gusto personal del
+piloto, pero es recomendable utilizar círculos que señalen los 15 Kms.
+y los 30 Kms.
+de distancia, pues son ideales para el tamaño y la escala del mapa
+propuesto.
+
+Dibujaremos los dos círculos con trazo fino y con centro en el aeródromo de
+Fuentemilanos, y señalaremos sobre el círculo exterior las direcciones N
+(0°-360°), NE (45°), E (90°), SE (135°), S (180°), SW (225°), W (270°) y NW
+(315°).
+
+Estas marcas pueden ser muy útiles para dirigirnos a casa un día de poca
+visibilidad y tengamos que guiarnos por el compás.
+
+Los círculos nos indican la distancia al aeródromo, por lo que dependiendo
+del velero que volemos, hemos de consultar el cuadro de planeos para saber
+la altura necesaria para volver a casa en un planeo final.
+
+Es muy recomendable trazar estos círculos en varios aeródromos alternativos
+que cubran la ruta de la montaña, que a la postre, será la "autopista" aérea
+por la que realizaremos la mayoría de nuestros vuelos.
+
+En el extremo _SW_ es recomendable marcar el aeródromo de Valle Amblés cerca
+de El Salobral en el valle de Ávila, y en el extremo NE, contaremos con el
+aeródromo de Santo Tomé.
+
+==== Puntos de viraje y Aeródromos alternativos
+
+Resaltaremos en el mapa estos puntos y aeródromos con el único objeto de
+facilitar su búsqueda cuando estemos en vuelo.
+
+Señalaremos, resaltándolos con marcador fluorescente, los puntos de viraje
+más importantes y los aeródromos de apoyo como pueden ser (de SW a NE):
+
+* El Barco de Ávila
+* Piedrahita
+* Villatoro
+* Mengamuñoz
+* Aeródromo de Valle Amblés
+* Ávila
+* Aeródromo de Ojos Albos
+* Aeródromo de Sanchidrián
+* Aeródromo de Campolara
+* Aeródromo de Villacastin
+* San Ildefonso - La Granja
+* Aeródromo de la Salceda
+* Aeródromo de Santo Tomé
+* Riaza
+* Riofrío de Riaza
+* Ayllón
+* Aeródromo de Ayllón
+
+Identificaremos estos puntos desde el aire desde que tengamos ocasión,
+principalmente los aeródromos, que como podemos comprobar, salpican toda la
+ruta de la montaña de SW a NE y nos servirán de valiosos puntos de apoyo
+para la planificación de los vuelos.
+En casi todos podremos encontrar ayuda si nos vemos obligados a tomar allí.
+
+==== Referencias de Coordenadas
+
+En los bordes de los mapas originales existen las marcas de las coordenadas
+expresadas en grados, minutos y segundos.
+Traslademos las marcas cada 30', tanto en longitud como en latitud.
+La escala nos quedaría, por ejemplo:
+
+40°00' = 40°30' = 41°00' = 41°30' en latitud y 3°00' = 3°30' = 4°00' =
+4°30' = 5°00' = 5°30' en longitud.
+
+El tamaño que nos interesa debe abarcar en latitud desde los 40°20' hasta
+los 41°50' aproximadamente, y en longitud desde los 2°30' hasta los 5°40'
+aproximadamente.
+
+Estas marcas nos servirán para localizar de manera directa y rápida
+cualquier punto del que dispongamos las coordenadas y se encuentre dentro
+del campo de nuestro mapa.
+
+==== Frecuencias útiles y teléfonos
+
+En el anverso del mapa, apuntaremos las frecuencias de cada aeródromo
+alternativo, la frecuencia de auxilio y las distintas frecuencias vigentes
+en Fuentemilanos.
+
+Además, por si tomamos fuera de campo, apuntaremos todos los teléfonos de
+Fuentemilanos, sobre todo el del Bar, que es donde seguro encontraremos
+respuesta si es muy tarde.
+
+==== Zonas Restringidas
+
+Representaremos en el mapa las dos grandes zonas restringidas que pueden
+afectarnos: la Zona Militar de Salamanca y el TMA de Madrid.
+
+La Zona de Salamanca la delimitaremos con una línea recta desde el Sur de
+Olmedo, hasta el Sur de Ávila.
+
+En los vuelos a partir de 300 kms, es bastante corriente tener que
+sobrevolar esta zona para alcanzar puntos como Piedrahita o El Barco de
+Ávila, y además Villatoro se encuentra dentro de ella.
+
+La Zona del TMA de Madrid restringe los vuelos VFR por encima de 8.500 pies
+MSL en una primera franja, y señalaría en nuestro mapa una línea recta desde
+el Sur del Escorial, hasta Somosierra.
+
+Es decir, que si volamos tras esa línea a más de 1.800 mts, podemos
+encontrarnos de frente con algún Jumbo que se aproxime o aleje de Barajas,
+por lo que no es nada recomendable aventurarse a volar alto más allá de la
+cara Sur de la Sierra.
+
+image::mapa-fuentemilanos-1.png[]
+
+== Comunicaciones por radio
+
+En el VSM no existe una normativa estricta para las comunicaciones por
+radio, pero en ciertos momentos podemos vernos obligados a comunicar con un
+Centro de Control o con algún aeródromo alternativo, y debemos emplear un
+esquema de comunicaciones más "formal".
+
+El caso más frecuente con el que nos encontraremos puede ser la comunicación
+con el Control Aéreo de Salamanca para notificar nuestra presencia y
+solicitar autorización para proceder a la zona restringida y llegar hasta
+Villatoro, por ejemplo.
+
+Muchos pilotos no consideran necesario llamar en un caso así, pero es
+importante que los controladores y los pilotos que sobrevuelen la zona sepan
+que estamos allí, para evitar situaciones peligrosas.
+
+.Octubre 1 995
+[sidebar]
+****
+El día estaba muy bien para ser octubre, y varios pilotos intentábamos
+acercarnos a Villatoro vía Ávila, manteniendo contacto por radio.
+
+Me encontraba en las cercanías de Ávila cuando me llamó un compañero
+diciendo que dos cazas habían pasado muy cerca de él y que venían hacia mí y
+a la misma altura que yo estaba.
+
+Giré la cabeza a ambos lados en un vano intento de divisar los cazas que se
+me acercaban, pero no pude verlos hasta que pasaron unos metros más abajo y
+a mi derecha.
+
+Eran grises, enormes y tremendamente veloces.
+No oí ningún ruido de motores.
+
+Muchos pilotos de VSM dicen que nos controlan con el radar, pero yo no lo
+creo, y prefiero notificar mi situación e, incluso, que me oigan por su
+frecuencia cuando llamo a la torre.
+****
+
+En una comunicación por radio hemos de seguir invariablemente el siguiente
+modelo:
+
+* Identificación y saludo.
+* Situación y altura a la que nos encontramos.
+* Intenciones o solicitud.
+
+También es muy conveniente repetir los datos que nos comunican, para
+simplemente comprobar que los hemos entendido bien.
+
+En las llamadas a Salamanca Torre, los controladores normalmente son muy
+amables y colaboran mucho con los veleros, por lo que no debemos tener
+reparos a la hora de llamar.
+Una comunicación normal sería:
+
+.A la entrada en la zona restringida de Salamanca.
+[sidebar]
+****
+[verse]
+----
+KP:
+- SALAMANCA TORRE, EC-EKP, BUENOS DÍAS.
+TORRE:
+- EKP, ADELANTE.
+KP:
+-EKP, VELERO CON BASE EN FUENTEMILANOS EN VUELO DE DISTANCIA HASTA
+VILLATORO Y VUELTA. ME ENCUENTRO EN LA VERTICAL DE SANCHIDRIAN CON 2.000MTS.
+Y SOLICITO AUTORIZACIÓN PARA PROCEDER A SU ZONA.
+TORRE:
+- EKP, AUTORIZADO A ENTRAR EN LA ZONA RESTRINGIDA
+DE SALAMANCA. NOTIFIQUE SALIENDO DE LA ZONA.
+KP:
+- EKP, AUTORIZADO A ZONA RESTRINGIDA DE SALAMANCA. HASTA LUEGO.
+----
+****
+
+.A la salida...
+[sidebar]
+****
+[verse]
+----
+KP:
+- SALAMANCA TORRE, EC-EKP, BUENAS TARDES.
+TORRE:
+- EKP, ADELANTE.
+KP:
+- EKP, ABANDONANDO SU ZONA POR SANCHIDRIAN CON 1.500 MTS.
+TORRE:
+- KP, RECIBIDO. HASTA LUEGO Y BUEN VUELO.
+----
+****
+
+.Si tuviésemos que contactar con algún aeródromo para tomar allí:
+[sidebar]
+****
+[verse]
+----
+KP:
+- VALLE AMBLES, EC-EKP, BUENAS TARDES.
+VA:
+- EKP, ADELANTE.
+KP:
+- EKP, SOY UN VELERO CON BASE EN FUENTEMILANOS Y ME ENCUENTRO AL
+OESTE DE AERÓDROMO CON 400MTS. DE ALTURA.
+SOLICITO INSTRUCCIONES PARA PROCEDER A SU CAMPO.
+VA:
+- KP, LA PISTA EN SERVICIO ES LA 35, Y EL VIENTO NORTE
+10 NUDOS. NOTIFIQUE VIENTO EN COLA.
+----
+****
+
+A partir de aquí, seguimos el procedimiento normal.
+
+.Seguir al pie de la letra el procedimiento de comunicaciones por radio es muy importante sobre todo en la fase de aproximación.
+image::final-34.png[]
+
+== LAS TOMAS FUERA DE CAMPO
+
+Desde el mismo momento del despegue, aunque sea para un corto vuelo local,
+nos enfrentamos a la posibilidad de tener que efectuar una toma fuera de
+nuestro aeródromo de origen.
+
+La toma fuera de campo es una posibilidad que afecta a todo piloto de VSM,
+independientemente de su experiencia y destreza, especialmente en vuelos de
+distancia en los que se soportan situaciones atmosféricas muy cambiantes a
+lo largo del trayecto.
+
+Si nos ocurriese en algún momento, no debemos considerarlo nunca como una
+falta o un error, ni tener miedo a efectuarla, siempre que observemos un
+mínimo de previsión y método.
+
+En nuestra zona de vuelo encontraremos no solo varios aeródromos
+estratégicamente situados, sino también una gran cantidad de campos de
+cultivo muy adecuados para nuestras tomas de emergencia.
+Estos campos son normalmente muy llanos, de buen tamaño, bien comunicados
+con carreteras y caminos y, en verano, después de la siega son verdaderos
+campos de aterrizaje.
+
+La principal recomendación para las tomas fuera de campo es: `NO
+IMPROVISAR`.
+
+Hemos de planificar una preparación que nos proporcione experiencia y
+conocimientos previos que serán de mucha utilidad llegado el caso.
+
+**Montaje y desmontaje de veleros.** Cada vez que veamos a alguien
+desmontando o montando un velero, acerquémonos, y en silencio y sin
+molestar, prestemos mucha atención a todas y cada una de las maniobras hasta
+comprender cómo se realizan.
+
+Un equipo que monte y desmonte un velero, debe estar perfectamente
+coordinado y con las tareas repartidas.
+
+Si hemos de ofrecer nuestra ayuda, hagámoslo antes de empezar la tarea y
+obedezcamos con la boca cerrada las instrucciones del miembro más experto
+del equipo, que será el único que deberá hablar, salvo que veamos un error
+flagrante o una situación peligrosa.
+
+Se ha de evitar por todos los medios que el montaje o desmontaje del velero
+se convierta en una "faena" de gritos y jaleo que puedan llevar a cometer un
+error vital y dañar algún elemento del velero, o lo que es peor, que quede
+mal montado y en malas condiciones para el siguiente vuelo.
+
+En una toma fuera de campo hemos de desmontar nuestro velero para traerlo de
+vuelta al aeródromo, y una vez allí, si el velero es de una escuela o club,
+será nuestra responsabilidad volverlo a montar y dejarlo en las mismas
+condiciones de vuelo en que lo encontramos.
+
+Es importante que otra persona distinta supervise todas y cada una de las
+conexiones de los mandos después de que el responsable dé por finalizada la
+tarea.
+
+**Manejo de un remolque.** Una vez desmontado el velero, habrá que
+introducirlo y estibarlo en el remolque, lo que requiere ciertos
+conocimientos y práctica, sobre todo porque esta maniobra habrá que
+realizarla muy probablemente en un campo desconocido y con poca luz natural.
+
+Lo más recomendable en este caso, es apuntarse a varias "expediciones de
+rescate", que nos aportará no solo una buena preparación técnica, sino que
+será un sano ejercicio de solidaridad y camaradería muy necesaria en el VSM.
+
+`Ya se sabe: hoy por ti, mañana por mí`.
+
+La revisión del remolque de nuestro velero a nuestra llegada al aeródromo,
+comprobando que está en condiciones de uso (neumáticos, enganche,
+accesorios, etc.) es imprescindible y puede ahorrarnos muchos inconvenientes
+en su momento.
+
+**Prácticas en motovelero.** Aprovechemos las ocasiones en que podamos hacer
+prácticas en motovelero acompañados de un instructor para simular tomas
+fuera de campo siguiendo todo el proceso: búsqueda y selección del campo,
+circuito, y simulacro de toma.
+
+Con el motovelero se puede reconocer el terreno a baja altura, y en una hora
+de vuelo se puede realizar una buena cantidad de simulacros que nos
+aportarán una valiosa experiencia.
+
+**Tomas de precisión.** En las tomas de precisión se trata de aterrizar
+efectuando el contacto con la pista en el punto escogido de antemano.
+
+Para practicar nos fijaremos en alguna referencia de la pista de nuestro
+aeródromo: números, rayas, referencias laterales, etc., e intentaremos
+controlar el velero, nada más tocar, sacando aerofrenos a tope y aplicando
+con precaución el freno de rueda, para reducir al mínimo la carrera de
+aterrizaje.
+
+.Schleicher ASH-25, uno de los veleros más modernos y con mayor rendimiento
+image::schleicher-ash-25.png[]
+
+Una vez practicado en la pista de asfalto, es conveniente practicarlo en la
+de tierra, que nos aportará una sensación más aproximada a lo que pueda ser
+una toma en un sembrado.
+
+**Planificación del vuelo.** Cuando planifiquemos nuestro vuelo, es
+importante reconocer y señalar todos y cada uno de los campos alternativos
+que se encuentren en el trayecto a realizar, así como las zonas
+inaterrizables o "tierra de lobos".
+
+Las zonas inaterrizables las hemos de sobrevolar con una reserva de altura
+suficiente como para afrontar las condiciones más adversas, pues quedarnos
+sin altura y tener que forzar una toma en ellas puede significar que el
+velero y/o nuestra integridad física queden destrozados.
+
+En caso de necesidad, utilizaremos los aeródromos alternativos de manera
+preferente, pues normalmente nos ofrecerán más seguridad y medios de ayuda
+que cualquier sembrado por bueno que sea.
+
+La previsión del viento en superficie que nos ofrezca la información
+meteorológica de la reunión pre-vuelo del día, es un dato importante a
+apuntar en nuestro mapa, como previsión para una toma fuera.
+
+No nos olvidemos de "reclutar" nuestro equipo de rescate antes del vuelo, y
+de llevar los teléfonos necesarios y algo de dinero suelto para las
+llamadas.
+
+Es importante comunicar que se ha tomado fuera de campo dentro de los
+límites de horario fijados por la reglamentación interna del aeródromo, pues
+si no se sabe nada de un velero después de la hora estipulada, se avisará al
+S.A.R.
+para comenzar una búsqueda al suponer que ha ocurrido un accidente.
+
+== La decisión
+
+Si hemos sido cautos durante el vuelo, se supone que nunca quedaremos bajos
+de altura sobre zonas manifiestamente inaterrizables, y que, ante tal
+posibilidad, hayamos "emigrado" hacia el llano donde el terreno sea más
+"amigable", aún a costa de desviarnos de nuestro camino.
+
+*¿En qué circunstancias hemos de plantearnos una toma fuera de campo?*.
+
+La situación podría ser la siguiente:
+
+volando sobre la montaña con buena altura, penetro en un tramo en negativo,
+pero confío en encontrar ascendencia más adelante, así que acelero un poco
+para cruzar la zona lo más rápidamente posible.
+
+El negativo persiste y se agrava, con lo que una luz roja de alarma se
+enciende en mis circuitos.
+
+La cosa empeora y decido alejarme de la montaña y adentrarme en el llano
+donde llego con 800 mts de altura.
+
+Sigo avanzando con dificultad, pues la ascendencia ha desaparecido y tengo
+que contentarme con virar algún cero y 0,5m/s.
+
+A pesar de ir avanzando con todas las precauciones y aprovechando todo lo
+aprovechable, mi altímetro señala menos de 500 mts y con un vistazo al suelo
+estimo que esa puede ser la altura real sobre el terreno, pues el altímetro
+fue calado a cero en Fuentemilanos y puede llevarme a engaño si aquí el
+terreno tuviese más o menos altura.
+
+A partir de aquí, se dispara el procedimiento que me llevará a una toma en
+los campos que puedo ver abajo.
+
+Sin dejar de buscar la mínima ascendencia, aminoro la velocidad y comienzo a
+mirar detenidamente la zona en busca de indicios que me indiquen la
+dirección del viento.
+
+En la reunión pre-vuelo nos habían predicho un viento de Norte moderado, y
+puedo ver que el humo de un fuego que veo hacia mi izquierda, se tiende
+hacia el Sur, confirmando los datos que tenía.
+
+Una vez situado, llamo por radio a Fuente para comunicar mi situación e
+intenciones, pero...
+nadie me contesta.
+
+Estoy a solo 450 mts y las ondas de radio no alcanzan su objetivo.
+
+Intento "puentear" y llamo a cualquier velero que esté a la escucha en
+nuestra frecuencia.
+
+Tengo suerte, así que le confirmo mi situación y mis intenciones de
+aterrizar y él las transmite a la base.
+
+Vuelvo a mi tarea, y ya con 400 mts y sin encontrar ascendencia, trato de
+localizar un campo adecuado para la toma.
+
+
+.LOS CONCEPTOS... ¡ CLAROS !
+image::toma-fuera-campo.png[]
+
+Tengo dos opciones que veo orientados a Norte, y libres de tendidos
+eléctricos, árboles, animales y obstáculos:
+
+* El primero está recién segado y aunque su superficie podría ser la mejor,
+hay algunas pacas de paja aquí y allá y además está algo lejos de un camino
+que cruza la zona.
+* El segundo está recién arado, con los surcos orientados a Norte y al lado
+del camino que va hacia el pueblo que veo más allá.
+
+El objetivo está fijado, y ya con 300 mts comienzo un circuito normal, pero
+aprovechando el tramo de viento en cola para observar detenidamente el
+estado del suelo en busca de zanjas, declives, vallas, piedras, etc.
+
+En caso de encontrar algún problema, solo tengo que alargar el tramo base
+para alcanzar el otro terreno, que aunque con algunas pacas de paja
+diseminadas, me puede ofrecer bastante seguridad.
+
+Todo parece correcto, así que saco la rueda y me ajusto mejor los
+cinturones, sin quitarle ojo al campo siempre intentando descubrir algún
+problema escondido inapreciable por la altura.
+
+Pienso que la toma será un poco brusca y confío que el tren absorba esa
+brusquedad y no repercuta en mi columna vertebral.
+
+En final, controlando el viento de cara para no quedarme "corto", saco
+aerofrenos y me preparo para una toma precisa y positiva.
+
+A escasos metros sobre el terreno, éste parece mucho más abrupto que desde
+más arriba, pero compruebo que no hay obstáculos peligrosos.
+
+Con aerofrenos a tope, dejo que el velero pierda toda su energía y toco
+primero con el patín de cola.
+
+La toma es algo brusca y la rodadura brevísima, procurando que los bordes
+marginales no toquen el suelo y manteniendo la palanca todo atrás desde ese
+momento hasta que el velero se detiene.
+
+Abro la cabina, y el aire me hace notar que sudo copiosamente debido a los
+nervios.
+
+Respiro un momento para tranquilizarme y me concentro en situar en el mapa
+el lugar exacto de la toma.
+
+Compruebo el estado del velero y veo que salvo la suciedad y algún pequeño
+raspón en el gel-coat de la panza, no sufre ningún desperfecto de
+consideración.
+También pienso que no ha habido ningún destrozo que lamentar en el campo, y
+que, por esta vez, el seguro no tendrá que indemnizar al propietario.
+
+En ese momento, me sorprende la llamada del velero que me "puentea" con
+Fuente, así que le comunico que he tomado sin novedad y la situación exacta
+donde me encuentro.
+
+En un par de horas estarán aquí.
+
+Mientras la tarde cae, me entretengo en sacar unas fotos, quitar las cintas
+de las juntas del velero, desatornillar el estabilizador, etc., mientras no
+dejo de repasar en mi mente todo el proceso por el que acabo de pasar.
+
+Ahora solo nos queda desmontar el velero, estibarlo en el remolque y volver
+a casa no sin antes cumplir con la tradición de obsequiar con una buena cena
+a mi esforzado equipo de rescate.
+
+== FOTOGRAFIAR LOS PUNTOS DE VIRAJE
+
+Es esta una maniobra que pareciendo sencilla a primera vista, requiere
+bastante práctica para efectuarla con soltura.
+
+.Sector angular fotográfico
+image::fotografiar-punto-viraje.png[]
+
+En la planificación del vuelo, es necesario informarse del sector angular
+fotográfico de los puntos de viraje que hemos escogido, para efectuar las
+fotografías dentro de sus límites, teniendo especial cuidado en esta
+maniobra, pues una foto dudosa o claramente fuera del sector, puede
+invalidar nuestro vuelo a pesar de haber estado allí.
+
+El giro debe ser similar al que efectuamos cuando entramos a virar una
+térmica, alabeando y pisando levemente el pedal del giro, para mantener la
+lanita centrada y no incurrir en resbale o derrape.
+
+Una vez localizado el punto de viraje, nos dirigiremos a él, pero dejándolo
+a un lado y tomando una referencia al lado contrario, que nos avisará cuándo
+comenzar la maniobra.
+
+Prepararemos la máquina fotográfica, que estará preferentemente fijada a la
+bancada al efecto en la cabina del velero, y una vez hayamos dejado atrás de
+nuestras alas las referencias escogidas, aceleraremos picando levemente, y
+comenzaremos el giro recogiendo un poco y alabeando de manera que apuntemos
+a nuestro objetivo con la punta del ala.
+Si la cámara es de rebobinado automático, y la maniobra está correctamente
+ejecutada, incluso nos dará tiempo de hacer dos disparos dentro del sector
+antes de seguir nuestro camino.
+
+Para llegar a dominar esta técnica, es importante practicar durante los
+vuelos locales, fotografiando puntos prefijados, tratando de mejorar el giro
+poco a poco y revelando las fotos para comprobar los resultados.
+
+== Los primeros kilómetros
+
+**La progresión.** Existe un tipo de piloto de VSM que cuando se le pregunta
+cuándo va a intentar tal o cual prueba, responde invariablemente que la
+competitividad no va con él y que vuela sólo por placer y para disfrutar.
+
+Yo creo que es una postura equivocada, porque el VSM necesita de una
+progresión y que el reto de intentar pruebas y distancias de dificultad
+creciente forma parte del verdadero disfrute del Vuelo a Vela, lo otro es
+sumirse en una rutina que acabará tarde o temprano con la ilusión por volar.
+
+Bien es verdad que esa progresión ha de ser gradual y a su tiempo, porque
+tan malo es estancarse, como tener demasiadas prisas.
+
+¿Cuál debe ser el baremo de la progresión de un piloto? Es muy arriesgado
+establecer una línea de progresión porque depende de muchos factores y
+circunstancias, pero solo a nivel orientativo, podríamos fijar la siguiente
+relación entre horas voladas y pruebas realizadas:
+
+30 Horas de vuelo:: ("C" de Plata) Ganancia de altura.
+40 Horas de vuelo:: ("C" de Plata) Permanencia.
+60 Horas de vuelo:: ("C" de Plata) Distancia de 100 Kms.
+140 Horas de vuelo:: ("C" de Oro) Distancia de 300 Kms.
+
+Muchas de estas horas las haremos en el entorno de "El Palomar", que no solo
+nos ofrece las posibilidades de entrenamiento que hemos mencionado, sino que
+casi sin salir de sus límites, podremos realizar y superar las pruebas para
+la Insignia de Plata de Vuelo a Vela (`"C" de Plata`).
+
+=== Ganancia de Altura
+
+Esta prueba consiste en `acreditar una ganancia de altura de 1.000 mts` a
+partir de la altura de suelta del remolque.
+
+Para afrontar esta prueba, escogeremos un día con techo previsto en torno a
+los 2.000-2.500 mts y planificaremos el remolque para soltarnos a una altura
+que no sea excesiva y que luego pueda perjudicarnos por faltarnos unos pocos
+metros.
+
+Es fundamental calar el altímetro con precisión justo antes del despegue y
+llevar a bordo un barógrafo debidamente validado por un comisario.
+
+Si el techo estuviese muy justo, pensemos que la montaña ofrece mayor altura
+que el llano y nos puede ofrecer unos metros extra.
+También es importante superar la altura indicada por el altímetro con un
+margen de seguridad, para no llevarnos una sorpresa con los cambios de
+presión.
+
+=== La Permanencia
+
+La prueba consiste en `realizar un vuelo de cinco horas` de duración, que se
+acreditará mediante el control de salidas y llegadas del aeródromo.
+
+Un barograma certificará que no hemos aterrizado y vuelto a despegar en ese
+periodo.
+
+Esta prueba se intentará cuando se tenga cierto entrenamiento y la seguridad
+de que se puede soportar holgadamente.
+Cuidaremos de encontrarnos muy cómodos en la cabina y de llevar líquido y
+alimento adecuados para tomar en vuelo.
+
+Un tema que raramente se comenta respecto a los vuelos largos, es de la
+necesidad de llevar a bordo algún dispositivo adecuado para orinar, y que
+puede ser un elemento decisivo, pues muchos vuelos se han malogrado por la
+incomodidad de soportar las ganas de orinar durante horas.
+
+Estos dispositivos pueden ser muy variados, y van desde las botellas de
+plástico vacías, hasta los pañales ultraabsorbentes de adultos para las
+chicas, pasando por bolsas de plástico con cierre y dispositivos
+hospitalarios para incontinencia.
+
+Recomiendo probarlos todos y adoptar el que más se adapte al gusto personal
+de cada uno.
+
+Es importante tener en cuenta que tras 5 horas de vuelo volveremos cansados
+y con los reflejos mermados, por lo que prestaremos especial atención a las
+maniobras de aterrizaje.
+
+=== La Distancia de 100 Kms.
+
+Antes de intentar la distancia, ya habremos completado un programa de
+entrenamiento a base de trayectos cortos en los que habremos visitado puntos
+como Segovia, San Ildefonso, Muñopedro, Campolara, Villacastín, etc.
+de manera que reconozcamos bastante bien el territorio que circunda al
+Aeródromo en kilómetros a la redonda.
+
+Si somos capaces de hacer un trayecto tipo Fuente-Segovia-Campolara-Fuente,
+podemos decir que estamos preparados para afrontar la distancia de 100 Kms
+con garantía de éxito.
+
+
+Mi propuesta para intentar superar la distancia de 100 Kms, es la siguiente:
+
+.Mi propuesta para intentar superar la distancia de 100 Kms.
+[cols="4,5,>1", options="header",stripes=even]
+|====
+| SALIDA                   | Fuentemilanos                      | KMS
+| *PRIMER PUNTO DE VIRAJE* | Palacio de San Ildefonso La Granja | 20
+| *SEGUNDO PUNTO VIRAJE*   | Aeródromo de Sanchidrián           | 50
+| *LLEGADA*                | Fuentemilanos                      | 31
+|                          | *TOTAL*                            | *101*
+|====
+
+image::propuesta-distancia-100km.png[]
+
+Este planteamiento ofrece ventajas muy importantes, transcurriendo en
+sentido ESTE-OESTE por una zona familiar al piloto y contando con nada menos
+que tres aeródromos en la línea de recorrido: Fuentemilanos, Campolara y
+Sanchidrián que incluso es un punto de viraje.
+
+Por el Sur contamos con el apoyo de la montaña, que aunque esté fuera de la
+línea del trayecto, en determinados días puede ser de gran utilidad para
+cerrar el vuelo con éxito.
+
+Como trabajo previo de preparación, es importante haber visitado los puntos
+de viraje para identificarlos desde el aire y familiarizarnos con el
+trayecto.
+Un vuelo en biplaza con un instructor, o bien en monoplaza con otro velero
+que haga de "liebre" son excelentes medios para este entrenamiento.
+
+[sidebar]
+****
+El día apareció excelente, y yo, hecho un manojo de nervios hice el chequeo
+del KP, supervisé la cámara, el barógrafo, etc.
+y llegado el momento, despegué sobre las 14:00 hHs., soltándome a 600Mts.
+en buena ascendencia.
+
+Ascendí a tope de nubes, tomé la foto de salida y me dirigí a Segovia donde
+llegué media hora más tarde volando directamente desde Fuente.
+
+El primer problema me lo presentó el viento del Sur que tendía un sotavento
+sobre el Palacio de La Granja, por lo que cada vez que "atacaba" desde la
+vertical de Segovia, me metía en un prolongado negativo que me hizo
+abandonar por dos veces y regresar a la seguridad de la térmica que había
+justo sobre el Alcázar.
+
+Traté de ascender a tope de nubes para acumular el máximo de altura, y
+ataqué de nuevo soportando estoicamente las protestas del altímetro y del
+variómetro, hasta llegar al palacio y lograr dos fotos en un giro bastante
+chapucero en el que perdí más metros que los deseables.
+
+La vuelta la hice por el llano nuevamente, dado que el sotavento en la
+montaña me desaconsejaba acercarme a ella.
+El vuelo hasta Sanchidrián fue lento, más debido a mi inexperiencia y mi
+extremado conservadurismo, que a las condiciones, puesto que había bastante
+ascendencia.
+
+Alcancé Sanchidrián a las 16:50Hs.
+y con un giro igualmente chapucero, logré las fotos no sin haber estado
+intentando localizar el aeródromo durante un buen rato, pues no lo había
+visto nunca desde el aire.
+La búsqueda del aeródromo me supuso unos angustiosos momentos de "debe estar
+por aquí...", pero al final logré localizarlo siguiendo las referencias de
+la carretera y la vía férrea.
+
+El último tramo fue una delicia, casi sin virar térmicas y disfrutando de
+antemano de la satisfacción de haberlo logrado.
+Eso sí, con unas incomodísimas ganas de orinar que lo estropeaban todo.
+
+A las 17:30Hs., tras 3 horas y media de vuelo, aterricé en Fuentemilanos
+satisfecho por la "hazaña", pero con la duda de si las fotos serían válidas
+o no.
+La sorpresa llegó al día siguiente...
+me habían cortado en trozos el negativo a pesar de haber insistido en que
+debía quedar entero.
+
+El segundo intento fue varios días después con un vuelo muy similar, pero
+con un dificultad diferente, se me olvidó...
+conectar el barógrafo.
+
+El tercer intento fue el definitivo, y por fin, logré cerrar el vuelo, tener
+negativos enteros y un barograma completo.
+****
+
+== Planificación del vuelo
+
+Chequeo pre-vuelo:: Hagamos la revisión exhaustiva del velero y
+comprobemos que lo llevamos todo: barógrafo, cámara, hoja de declaración
+del vuelo debidamente firmada por el comisario y fotografiada, ticket de
+remolque, etc...
+
+Es importante prepararlo todo con antelación, pues con las prisas en el
+momento del despegue podemos olvidarnos de cualquier cosa importante, como
+por ejemplo: conectar el barógrafo, no tomar la fotografía de la hoja,
+etc...
+
+El día:: Escogeremos preferentemente un buen día de verano, con cúmulos,
+con techo superior a 2.000Mts. y con buena predicción meteorológica.
+
+Hora de salida:: Pensando en que será un vuelo relativamente corto, pues
+3-4 horas es tiempo más que suficiente, no nos apresuremos a despegar
+hasta que la ascendencia trabaje bien y el techo esté en su máximo.
+
+Observemos dónde giran los veleros que despegan antes que nosotros y
+tratemos de localizar las térmicas "de servicio", preferentemente al Oeste
+del aeródromo.
+
+Salida:: Remolque a no menos de 700Mts., soltándonos en la zona al Oeste
+del aeródromo, que es desde donde hemos de obtener la foto de salida.
+Tratemos desde el primer momento de ganar altura y no nos obsesionemos con
+la fotografía hasta estar por encima de los 1.000Mts...
+
+.Fuentemilanos torre, foto de salida desde la zona oeste
+image::foto-salida-fuentemilanos.png[]
+
+Desde esa posición y con un simple alabeo, tomaremos la foto de la torre del
+aeródromo y luego trataremos de ascender hasta el techo de nubes antes de
+comenzar el primer tramo.
+
+IMPORTANT: Faltan las páginas originales 3.20 y 3.21. Deberían haber estado entre las imágenes escaneadas IMG_902.JPG (este texto) y IMG_908.JPG. Si las tienes, o tienes el libro original, por favor, envíamelas para completar el libro.
+
+== PRUEBAS
+
+La comisión Internacional de Vuelo a Vela establece las siguientes:
+
+**Licencia de Piloto de Planeador Clase "C".**
+
+**"C" DE PLATA:**
+
+*   Vuelo de más de 50 Kms.
+*   Vuelo de Permanencia de más de 5 Horas.
+*   Ganancia de Altura de más de 1 000 mts.
+
+**"C" DE ORO:**
+
+*   Vuelo de Distancia de más de 300 Kms.
+*   Ganancia de Altura de más de 3 000 mts.
+
+**"C" DE ORO & PLATA CON DIAMANTE:**
+
+*   Vuelo de Distancia de más de 500 Kms.
+*   Vuelo Triangular F.A.I. de más de 300 Kms.
+*   Ganancia de Altura de mas de 5.000 mts.
+
+.Nimbus 3D
+image::nimbus-3d.png[]
+
+.La permanencia
+image::permanencia.png[]

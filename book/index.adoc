@@ -34,8 +34,7 @@
 :version-label: Versión
 :warning-caption: Advertencia
 :leveloffset: +1
-:front-cover-image: image:cover.jpg[fit=cover]
-:sectnums:
+:front-cover-image: image:cover.pdf[page=1],fit=cover]
 :sectlinks:
 :toc: macro
 :toclevels: 3
@@ -64,6 +63,6 @@ include::chapter-01-El-palomar/content.adoc[]
 
 include::chapter-02-Atmosfera/content.adoc[]
 
-// include::zz-borrar/content.adoc[]
+include::chapter-03-Los-primeros-kilometros/content.adoc[]
 
-// include::chapter-03-How-Planet-Systems-Work/content.adoc[]
+include::chapter-zz-back-cover/content.adoc[]
