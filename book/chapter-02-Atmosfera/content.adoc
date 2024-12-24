@@ -643,7 +643,7 @@ Guadarrama, son muy parecidas a las condiciones que hemos tenido en
 Diciembre y Enero.
 
 .La onda de montaña en la Sierra de Guadarrama. Mapa de superficie de enero de 1 996
-image::mapa-superficie-ene96.png[]
+image::mapa-superficie-ene96.svg[pdfwidth=50%]
 
 Como se puede apreciar en el mapa de superficie, es necesario que la baja
 presión se sitúe sobre las costas de Portugal, moviéndose lentamente hacia

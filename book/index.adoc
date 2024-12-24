@@ -10,7 +10,7 @@
 :copyright: 1996 Fuentemilanos
 :email: fuentemilanos@fuentemilanos.com
 :revnumber: v2.0
-:revdate: Enero 2025
+:revdate: 2024-12-24
 :revremark: BORRADOR
 :doctype: book
 :appendix-caption: Apéndice

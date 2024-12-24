@@ -4,3 +4,4 @@ book/*.mobi
 book/*.html
 book/*.pdfmark
 build/
+.DS_Store

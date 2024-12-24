@@ -528,7 +528,8 @@ el paisaje y engordando de satisfacción unos 3 kg/minuto.
 .El aterrizaje y las cervezas posteriores son trámites correctamente resueltos.
 image::fuentemilanos-torre.png[]
 
-<<< ==Vuelo 798 kms récord de España
+<<< 
+== Vuelo 798 kms récord de España
 
 * _PILOTO:_ Juan José Gresa
 * _FECHA:_ 2/08/94
