@@ -11,3 +11,17 @@
      - José Gresa
      - Pedro Berlinches
      - Antonio González
+
+
++
++
++
++
++
++
++
++
++
+
+image::licencia.png[float="right",scaledwidth=20%]
+© 1996 by Fernando Correa, licensed under CC BY-NC-SA 4.0

@@ -184,8 +184,8 @@ férreas, silos, puentes, etc.
 
 Hagámonos con un buen mapa, preferentemente de escala 1:400.000 y de un
 tamaño que incluya el sistema central como mínimo desde El Barco de Ávila al
-SW, hasta San Esteban de Gormaz al NE, limitando al N con el río Duero, y al
-S con el TMA de Madrid.
+SW, hasta San Esteban de Gormaz al _NE_, limitando al _N_ con el río Duero,
+y al _S_ con el _TMA_ de Madrid.
 
 Este tamaño es muy manejable en una cabina tan limitada de espacio como es
 la de un velero, y contendrá toda la información necesaria para vuelos de
@@ -248,7 +248,7 @@ Resaltaremos en el mapa estos puntos y aeródromos con el único objeto de
 facilitar su búsqueda cuando estemos en vuelo.
 
 Señalaremos, resaltándolos con marcador fluorescente, los puntos de viraje
-más importantes y los aeródromos de apoyo como pueden ser (de SW a NE):
+más importantes y los aeródromos de apoyo como pueden ser (de _SW_ a _NE_):
 
 * El Barco de Ávila
 * Piedrahita
@@ -270,7 +270,7 @@ más importantes y los aeródromos de apoyo como pueden ser (de SW a NE):
 
 Identificaremos estos puntos desde el aire desde que tengamos ocasión,
 principalmente los aeródromos, que como podemos comprobar, salpican toda la
-ruta de la montaña de SW a NE y nos servirán de valiosos puntos de apoyo
+ruta de la montaña de _SW_ a _NE_ y nos servirán de valiosos puntos de apoyo
 para la planificación de los vuelos.
 En casi todos podremos encontrar ayuda si nos vemos obligados a tomar allí.
 
@@ -439,7 +439,7 @@ A partir de aquí, seguimos el procedimiento normal.
 .Seguir al pie de la letra el procedimiento de comunicaciones por radio es muy importante sobre todo en la fase de aproximación.
 image::final-34.png[]
 
-== LAS TOMAS FUERA DE CAMPO
+== Las tomas fuera de campo
 
 Desde el mismo momento del despegue, aunque sea para un corto vuelo local,
 nos enfrentamos a la posibilidad de tener que efectuar una toma fuera de
@@ -686,7 +686,7 @@ Ahora solo nos queda desmontar el velero, estibarlo en el remolque y volver
 a casa no sin antes cumplir con la tradición de obsequiar con una buena cena
 a mi esforzado equipo de rescate.
 
-== FOTOGRAFIAR LOS PUNTOS DE VIRAJE
+== Fotografiar los puntos de viraje
 
 Es esta una maniobra que pareciendo sencilla a primera vista, requiere
 bastante práctica para efectuarla con soltura.
@@ -897,31 +897,31 @@ negativos enteros y un barograma completo.
 
 == Planificación del vuelo
 
-Chequeo pre-vuelo:: Hagamos la revisión exhaustiva del velero y
-comprobemos que lo llevamos todo: barógrafo, cámara, hoja de declaración
-del vuelo debidamente firmada por el comisario y fotografiada, ticket de
-remolque, etc...
+Chequeo pre-vuelo:: Hagamos la revisión exhaustiva del velero y comprobemos
+que lo llevamos todo: barógrafo, cámara, hoja de declaración del vuelo
+debidamente firmada por el comisario y fotografiada, ticket de remolque,
+etc...
 
 Es importante prepararlo todo con antelación, pues con las prisas en el
 momento del despegue podemos olvidarnos de cualquier cosa importante, como
 por ejemplo: conectar el barógrafo, no tomar la fotografía de la hoja,
 etc...
 
-El día:: Escogeremos preferentemente un buen día de verano, con cúmulos,
-con techo superior a 2.000Mts. y con buena predicción meteorológica.
+El día:: Escogeremos preferentemente un buen día de verano, con cúmulos, con
+techo superior a 2.000 mts y con buena predicción meteorológica.
 
-Hora de salida:: Pensando en que será un vuelo relativamente corto, pues
-3-4 horas es tiempo más que suficiente, no nos apresuremos a despegar
-hasta que la ascendencia trabaje bien y el techo esté en su máximo.
+Hora de salida:: Pensando en que será un vuelo relativamente corto, pues 3-4
+horas es tiempo más que suficiente, no nos apresuremos a despegar hasta que
+la ascendencia trabaje bien y el techo esté en su máximo.
 
 Observemos dónde giran los veleros que despegan antes que nosotros y
 tratemos de localizar las térmicas "de servicio", preferentemente al Oeste
 del aeródromo.
 
-Salida:: Remolque a no menos de 700Mts., soltándonos en la zona al Oeste
-del aeródromo, que es desde donde hemos de obtener la foto de salida.
+Salida:: Remolque a no menos de 700 mts, soltándonos en la zona al Oeste del
+aeródromo, que es desde donde hemos de obtener la foto de salida.
 Tratemos desde el primer momento de ganar altura y no nos obsesionemos con
-la fotografía hasta estar por encima de los 1.000Mts...
+la fotografía hasta estar por encima de los 1 000 mts...
 
 .Fuentemilanos torre, foto de salida desde la zona oeste
 image::foto-salida-fuentemilanos.png[]
@@ -930,9 +930,13 @@ Desde esa posición y con un simple alabeo, tomaremos la foto de la torre del
 aeródromo y luego trataremos de ascender hasta el techo de nubes antes de
 comenzar el primer tramo.
 
-IMPORTANT: Faltan las páginas originales 3.20 y 3.21. Deberían haber estado entre las imágenes escaneadas IMG_902.JPG (este texto) y IMG_908.JPG. Si las tienes, o tienes el libro original, por favor, envíamelas para completar el libro.
+IMPORTANT: Me faltan las páginas originales 3.20 y 3.21 del original.
+Deberían haber estado entre las imágenes escaneadas IMG_902.JPG (este texto)
+y IMG_908.JPG (el texto a continuación).
+Si las tienes, o tienes el libro original, por favor, saca una foto y
+envíamelas para completar el libro.
 
-== PRUEBAS
+== Pruebas
 
 La comisión Internacional de Vuelo a Vela establece las siguientes:
 
@@ -952,7 +956,8 @@ La comisión Internacional de Vuelo a Vela establece las siguientes:
 **"C" DE ORO & PLATA CON DIAMANTE:**
 
 *   Vuelo de Distancia de más de 500 Kms.
-*   Vuelo Triangular F.A.I. de más de 300 Kms.
+*   Vuelo Triangular F.A.I.
+  de más de 300 Kms.
 *   Ganancia de Altura de mas de 5.000 mts.
 
 .Nimbus 3D

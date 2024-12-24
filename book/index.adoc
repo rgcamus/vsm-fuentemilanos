@@ -10,8 +10,8 @@
 :copyright: 1996 Fuentemilanos
 :email: fuentemilanos@fuentemilanos.com
 :revnumber: v2.0
-:revdate: Junio 1996
-:revremark: Borrador
+:revdate: Enero 2025
+:revremark: BORRADOR
 :doctype: book
 :appendix-caption: Apéndice
 :appendix-refsig: Apéndice
@@ -35,6 +35,7 @@
 :warning-caption: Advertencia
 :leveloffset: +1
 :front-cover-image: image:cover.pdf[page=1],fit=cover]
+:sectnums:
 :sectlinks:
 :toc: macro
 :toclevels: 3
@@ -64,5 +65,7 @@ include::chapter-01-El-palomar/content.adoc[]
 include::chapter-02-Atmosfera/content.adoc[]
 
 include::chapter-03-Los-primeros-kilometros/content.adoc[]
+
+include::chapter-04-Cross-country/content.adoc[]
 
 include::chapter-zz-back-cover/content.adoc[]

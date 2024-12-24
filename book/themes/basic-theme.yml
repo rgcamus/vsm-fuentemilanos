@@ -190,3 +190,10 @@ footer:
   verso:
     left:
       content: '*{page-number}* | {chapter-title}'
+
+cream-background:
+  background-color: #fdf5e6; /* Fondo color crema */
+  border: 1px solid #d1c7b7; /* Borde color crema oscuro */
+  padding: 15px;
+  border-radius: 5px; /* Bordes redondeados opcional */
+  margin: 10px 0;

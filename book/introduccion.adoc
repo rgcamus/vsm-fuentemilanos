@@ -1,4 +1,5 @@
 [preface]
+
 = Introducción
 
 La idea de producir un documento que resumiera a modo de guía los pasos por los que ha de pasar todo piloto novel de VSM, surgió una tarde en la que un grupo comentábamos, bajo la arboleda del bar de Fuentemilanos, los avatares del día y la necesidad que muchos de nosotros experimentamos de disponer de más información sobre las distintas etapas que componen este período de aprendizaje, ciertamente intenso y emocionante.
@@ -10,3 +11,23 @@ En este trabajo realizado sin ánimo de lucro no cabe la presunción, puesto que
 Compartimos el gran privilegio de poder disfrutar de esa experiencia entre místico y deportiva que es el VSM, y debemos sentirnos felices de dar a conocer las experiencias que tenemos, aunque sean bien pocas y modestas, y de facilitar a cualquiera el acceso a esta maravillosa actividad.
 
 Saludos,
+
+<<<
+
+.Notas de esta reedición de 2024
+[NOTE,role="cream-background"]
+====
+Este es un _trabajo en curso_ de remaquetación del libro original, escrito en 1996.
+
+Esta "edición" ha sido reformateada y adaptada a un estilo digital pero `a partir de fotografías de las páginas de la edición original`, de la cual, lamentablemente, no he podido conseguir una copia.
+
+.El libro original
+[.text-center]
+image::cover-original.jpg[pdfwidth=40%,float=left]
+
+He hecho todo lo posible por mantener la fidelidad al material original, pero algunos detalles pueden haberse visto afectados. En particular las ilustraciones y las fotografías con muy bajo contraste. He intentado "mejorar" alguna de las ilustraciones con resultados dispares. Sin embargo, las copias de las fotos no tienen contraste -o todo blanco o todo negro- y algunas eran completamente ilegibles. Estas las he reemplazado por otras de mi autoría o "tomadas prestadas" de de grupos de WhatsApp de pilotos de planeadores. Si tienes alguna imagen alternativa para reemplazarlas, o puedes escanear el original en mejor calidad, no dudes en enviármela, por favor.
+
+Gracias por tu comprensión y, sobre todo, mil gracias a los autores originales de este libro, quienes realizaron un trabajo excepcional.
+
+Ramón G. Camus - 2024; 28 años después...
+====

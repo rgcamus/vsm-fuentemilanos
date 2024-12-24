@@ -700,16 +700,26 @@ dos pares de calcetines de lana y suficiente oxigeno para el vuelo.
 | OBSERVACIONES:     |*ONDA DE MONTAÑA* |
 |===
 
-Lo que quiero que quede bien claro, es que para volar en onda, además de estar acostumbrado al remolque, que suele ser bastante agitado para velero y remolcador, hay que ser consciente de lo siguiente:
+Lo que quiero que quede bien claro, es que para volar en onda, además de
+estar acostumbrado al remolque, que suele ser bastante agitado para velero y
+remolcador, hay que ser consciente de lo siguiente:
 
 [sidebar]
 ****
 * Llevar la ropa adecuada, inclusive en verano.
 * Llevar oxígeno suficiente, no solo para subir, sino también para bajar.
-* Mucha atención a la formación de hielo, sobre todo si se toca la lenticular. El hielo está garantizado en la parte del velero que haya tocado.
-* Si no se está familiarizado con los remolques en zona de rotores, nunca intentarlo solo; subir primero con un instructor.
-* Mucha atención al desplazamiento que nos imprima el viento. Lo mejor es fijar referencias en tierra, es posible que el viento sea tan fuerte que volemos hacia atrás.
-* Ya por último, cuando se entre en tráfico, entrar con altura de más, no importa cuánto de más. Y en final, no sacar aerofrenos hasta estar bien seguro de llegar bien a la pista.
+* Mucha atención a la formación de hielo, sobre todo si se toca la
+  lenticular.
+  El hielo está garantizado en la parte del velero que haya tocado.
+* Si no se está familiarizado con los remolques en zona de rotores, nunca
+  intentarlo solo; subir primero con un instructor.
+* Mucha atención al desplazamiento que nos imprima el viento.
+  Lo mejor es fijar referencias en tierra, es posible que el viento sea tan
+  fuerte que volemos hacia atrás.
+* Ya por último, cuando se entre en tráfico, entrar con altura de más, no
+  importa cuánto de más.
+  Y en final, no sacar aerofrenos hasta estar bien seguro de llegar bien a
+  la pista.
 ****
 
 [cols="1,4a,1,4a,1", frame=none, grid=none]

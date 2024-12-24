@@ -1,0 +1,1159 @@
+:imagesdir: images
+ifeval::["{docname}" == "index"]
+:imagesdir: chapter-04-Cross-Country/images
+endif::[]
+
+= CROSS COUNTRY
+
+== EL Cross Country
+
+.Fuentemilanos: Cola de salida en un prometedor día para vuelos de distancia
+image::cola-salida.png[]
+
+El Cross-Country ó vuelo de distancia, es la verdadera "salsa" del VSM, y
+podríamos decir que responde a la siguiente ley: No hay dos di-as iguales,
+ni distancia fácil.
+
+El vuelo de distancia ofrece al piloto un desafío cada vez mayor, y la
+progresión parece no acabar nunca ni aburrir a los más aventureros ni
+"kamikazes".
+Al final está el sueño de lograr hacer un vuelo de 1 000 Kms.
+y entrar en el Olimpo de los "Muy Muy Grande Pilotos".
+
+Los vuelos han de afrontarse con seriedad, con precaución y con mucha
+preparación previa, pues hasta la distancia más asequible, exigirá de
+nosotros un gran esfuerzo no sólo físico, sino de tenacidad y concentración.
+La práctica del vuelo de distancia supone un ejercicio intimo, en que nos
+pasaremos horas dentro de la estrecha cabina de un velero, luchando con los
+elementos y con nuestro propio cansancio para lograr la meta prevista.
+Después, sólo te queda tu propia satisfacción y el reconocimiento de tus
+compañeros de vuelo, pero ni se te ocurra alardear de ello ante gente que no
+conoce el VSM, porque sólo acertarán a mirarte con extrañeza y llamarte
+"loco" ó "suicida".
+
+== Los 300 kilómetros
+
+La transición entre los 100 Kms y los 300 Kms es un tramo muy importante en
+la progresión en el V.S.M., ya que el piloto que acaba de cerrar sus
+primeros vuelos de 100 Kms, ahora ha de enfrentarse con una distancia tres
+veces superior y con una duración y complejidad muy superiores a los hasta
+ahora realizados.
+
+Creo que no conviene en absoluto atacar directamente un trayecto de 300 Kms,
+sino que se ha de planificar un programa de preparación previo, con el
+objeto de alcanzar los conocimientos y el entrenamiento necesarios para,
+después, poder afrontar esta distancia con garantías de éxito.
+
+Sin embargo, comenzaremos por establecer un objetivo, y uno muy adecuado y
+bastante utilizado por su planteamiento, es el siguiente :
+
+**FUENTEMILANOS-RIAZA-VILLATORO-FUENTEMILANOS** con un total de 320 Kms.
+
+Este trayecto, deja a Fuentemilanos en posición central, y transcurre a lo
+largo de la sierra en dos tramos, uno hacia el NE hasta Riaza, y otro hacia
+el _SW_ hasta Villatoro.
+
+Preparación:: Recomiendo al piloto que tras la obtención de su flamante "C"
+de Plata, comience su preparación intentando cerrar vuelos que transcurran
+sobre trayectos parciales del vuelo propuesto.
+
+Un excelente entrenamiento, sería afrontar las distancias que, entre 150 y
+250 Kms, responden a los vuelos siguientes:
+
+* 152 Kms FUENTEMILANOS-RIAZA-FUENTEMILANOS.
+* 166 Kms FUENTEMILANOS-VILLATORO-FUENTEMILANOS.
+* 221 Kms FUENTEMILANOS-LA SALCEDA-Ávila-FUENTEMILANOS.
+
+Estos vuelos nos aportarán conocimiento de los puntos de viraje, aeródromos
+alternativos y nos aportarán mucha confianza para afrontar el vuelo
+definitivo con garantías de éxito, así que los prepararemos como si de un
+"300" se tratase, declarándolos y obteniendo barograma y tomando las
+fotografías.
+
+Cualquier piloto que haya cerrado estos tres vuelos, está en perfecta
+disposición de superar holgadamente la prueba de 300 Kms.
+
+Primer tramo:: Una vez tomada la foto de salida, nos dirigiremos a cubrir el
+primer tramo dirigiéndonos bien directamente a Segovia para alcanzar el
+Cerro de las Cardosillas al _E_ (donde suele haber térmica "de servicio"), o
+bien, por el consabido trayecto Otero de Herreros-Mujer Muerta-Peñalara.
+Una vez sobre la Sierra, volaremos sobre ella hacia el Puerto de Navafría,
+dejando a la derecha el Valle de Lozoya, y encontrando a nuestra izquierda,
+el aeródromo de La Salceda.
+Volar sobre esta zona de la Sierra, nos puede dar la impresión de que nos
+falta altura porque el terreno sube a nuestro encuentro, pero basta que
+volemos hacia el llano, para comprobar que nuestro altímetro, calado a la
+altura de Fuentemilanos, no se equivoca.
+
+Una vez alcanzada La Salceda, tendremos ante nosotros un tramo precioso,
+pero que no deja de impresionar por la casi ausencia de campos aterrizables
+y por las rocas de la zona de Arcones.
+Tomemos, pues, medidas de seguridad y no nos arriesguemos a "dar el salto"
+hasta Santo Tomé si no tenemos como mínimo 1 500 mts y condiciones
+medianamente favorables.
+
+.La montaña ofrece un excelente apoyo para vuelos de cross-country
+image::montaña.png[]
+
+Hagamos el camino hacia Santo Tomé, bajo cúmulos y manteniendo velocidad de
+máximo planeo, acelerando en las descendencias y aprovechando todas las
+ascendencias de calidad que encontremos.
+Es conveniente no bajar de los 1 000 mts innecesariamente.
+
+Este trayecto es impresionante la primera vez que se realiza, pero suelen
+haber condiciones excelentes y no debe presentar ningún problema si se toman
+precauciones mínimas.
+Una vez alcanzada la zona Somosierra-Santo Tomé, podremos divisar el pueblo
+de Riaza al _NE_, siguiendo la N-110.
+Así que preparemos la cámara con tiempo y dirijámonos a él, bien
+directamente por el llano, o bien por la Sierra sobrevolando la estación de
+La Pinilla y acercándonos a la Sierra de Ayllón para, desde aquí, saltar a
+Riaza.
+
+Nuestro punto de viraje se encuentra muy cerca de dos excelentes aeródromos:
+Santo Tomé al _W_, y Corral de Ayllón al _N_, de manera que disponiendo
+incluso de algo menos de 1.000Mts., podríamos alcanzar cualquiera de ellos
+desde Riaza.
+
+Siguiendo hacia el _NE_ por la N-110, se llega a Ayllón pueblo, que es otro
+importante punto de viraje para futuros vuelos.
+Una vez tomada las fotos necesarias, emprenderemos el camino de regreso
+guiándonos por la nubes y siguiendo el mismo camino si dió buenos resultados
+a la venida.
+
+Segundo tramo:: Una vez alcanzada de nuevo la zona de Peñalara, y siempre
+que las condiciones de la Sierra se presenten mejores que en el llano,
+saltaremos hacia La Mujer Muerta, y seguiremos la cresta de la montaña hacia
+Los Angeles de San Rafael.
+
+Al _SW_ de Los Angeles, divisaremos el cerro de La Cruz de Hierro, que se
+encuentra a mitad de camino hacia Ávila ciudad.
+
+Sobre La Cruz de Hierro, suelen haber excelentes térmicas, y aquí nos
+encontraremos en contacto visual con el aeródromo de Villacastín y ante la
+segunda y definitiva mitad de nuestro vuelo.
+
+Nos dirigiremos hacia Ávila siguiendo los cúmulos, procurando acercarnos a
+su parte norte, donde nos encontraremos con la Sierra de Ávila, que es de
+escasa altura, pero muy buena productora de térmicas y nos lleva
+directamente hacia el fondo del valle hacia el que transcurre de forma
+rectilínea la _N-110_, hasta el mismo Villatoro.
+
+Volamos dejando el valle a nuestra izquierda, y podremos observar que ofrece
+muchas posibilidades de aterrizaje.
+
+No olvidemos que a la altura de Ávila deberemos comunicar con Salamanca para
+notificar nuestra posición e intenciones.
+
+El aeródromo de Valle Amblés se divisa por su hangar muy cerca de la
+bifurcación entre la _N-110_ y la _N-502_.
+Desde Villatoro, podremos volar hasta él si disponemos de unos 1 000 mts y
+condiciones normales.
+
+Con Villatoro a la vista, observemos que al _S_ se encuentra al pico de La
+Cerrota y el Puerto de Menga, a cuya entrada se encuentra el pueblo de
+Mengamuñoz, otro importante punto de viraje.
+
+Una vez tomada la foto de Villatoro, emprenderemos el regreso por el mismo
+camino, si nos ha sido favorable, y ya desde el _N_ de Ávila ciudad, y si el
+llano ofrece buen aspecto, pondremos rumbo 050° aproximadamente, que nos
+llevará en un planeo recto a Fuentemilanos, dejando Villacastín a la derecha
+y más adelante, en aeródromo de Campolara a la izquierda, después de cruzar
+la _A-6_.
+
+Comuniquemos a Salamanca que abandonamos su zona, y volemos hacia casa
+siguiendo los cúmulos.
+Con escasos 1 000 mts y condiciones normales, podemos llegar en un planeo,
+para hacer la foto final de Fuentemilanos desde el _E_, antes de aterrizar.
+
+.Nimbus 3D: El famoso "Y4"
+image::nimbus-y4.png[]
+
+.Vuelos con origen y destino en Fuentemilanos
+[cols=">1,3,3,3,>1,>1,>1,>1,>1", options="header",stripes=even]
+|===
+| Nº | 1er PUNTO VIRAJE   | 2º PUNTO VIRAJE   | 3er PUNTO VIRAJE |  1 | 2   |  3  |  4 | Kms
+| 1  | Ávila              |                   |                  | 47 | 47  |     |    |  94
+| 2  | Sanchidrian Aer.   | La Granja, Palac. |                  | 31 | 51  | 20  |    | 102
+| 3  | Santo Tomé Aer.    |                   |                  | 64 | 64  |     |    | 128
+| 4  | Riaza              |                   |                  | 76 | 76  |     |    | 152
+| 5  | Villatoro          |                   |                  | 83 | 83  |     |    | 166
+| 6  | La Salceda Aer.    | Ávila             |                  | 36 | 83  | 47  |    | 166
+| 7  | La Salceda Aer.    | Navalmanzano      | Ávila            | 36 | 36  | 73  | 47 | 192
+| 8  | Santo Tomé Aer.    | Ávila             |                  | 64 | 110 | 47  |    | 221
+| 9  | La Salceda Aer.    | Olmedo            | Ávila            | 36 | 72  | 70  | 47 | 225
+| 10 | La Salceda Aer.    | Villatoro         |                  | 36 | 119 | 83  |    | 238
+| 11 | Santo Tomé Aer.    | Olmedo            | Ávila            | 64 | 91  | 70  | 47 | 272
+| 12 | Riaza              | Mengamuñoz        |                  | 77 | 155 | 77  |    | 309
+| 13 | Riaza              | Villatoro         |                  | 77 | 160 | 83  |    | 320
+| 14 | Ayllón             | Villatoro         |                  | 93 | 174 | 83  |    | 350
+| 15 | Riaza              | Piedrahita        |                  | 77 | 180 | 103 |    | 360
+| 16 | Ayllón             | Piedrahita        |                  | 93 | 187 | 103 |    | 383
+| 17 | Riaza              | El Barco de Ávila |                  | 77 | 200 | 124 |    | 401
+| 18 | Ayllón             | El Barco de Ávila |                  | 93 | 216 | 124 |    | 433
+| 19 | Ayllón             | Piedrahita        | La Salceda Aer.  | 93 | 187 | 139 | 36 | 455
+| 20 | Ayllón             | Villatoro         | Santo Tomé Aer.  | 93 | 174 | 146 | 64 | 477
+| 21 | Ayllón             | Villatoro         | Riaza            | 93 | 177 | 159 | 77 | 506
+| 22 | Ayllón             | Piedrahita        | Santo Tomé Aer.  | 93 | 187 | 166 | 64 | 510
+|===
+
+Otro punto de salida regularmente usado, es Otero de Herreros, que por su
+cercanía a la montaña, es ideal para vuelos que comienzan muy temprano
+cuando la actividad es aún escasa.
+
+.Lista de puntos de viraje
+[cols="4a,4a,2a,2a", options="header",stripes=even]
+|===
+| Localidad | Punto exacto | Longitud | Latitud
+| Aranda de Duero | Puente s/Duero | 41.40.16 N | 03.30.56 W
+| Ávila | Plaza Toros | 40.38.51 N | 04.41.57 W
+| Ávila | Catedral | 40.39.26 N | 04.41.23 W
+| Ayllón | Silo | 41.26.46 N | 03.19.58 W
+| Baltanas | Iglesia | 41.56.15 N | 04.15.00 W
+| Berlanga de Duero | Castillo | 41.27.51 N | 02.51.34 W
+| Burgomillodo | Embalse | 41.20.21 N | 03.53.07 W
+| Cabezuela del Valle | Iglesia | 40.11.42 N | 05.48.07 W
+| Campolara | aeródromo | 40.54.30 N | 04.31.30 W
+| Cantalejo | Iglesia | 41.15.22 N | 03.55.20 W
+| Club Náutico Najade | Hotel | 40.46.59 N | 04.14.33 W
+| Cubilla | Iglesia | 41.44.55 N | 02.56.17 W
+| Cuéllar | Castillo | 41.24.02 N | 04.19.26 W
+| Dueñas | Estación | 41.52.20 N | 04.32.40 W
+| El Barco de Ávila | Castillo | 40.21.18 N | 05.31.21 W
+| El Burgo de Osma | Iglesia | 41.35.17 N | 03.03.52 W
+| El Espinar | Iglesia | 40.46.05 N | 04.14.50 W
+| Palmaces | Embalse | 41.03.05 N | 02.56.28 W
+| Fuentemilanos | aeródromo | 40.53.15 N | 04.14.18 W
+| Gormaz | Castillo | 41.29.42 N | 03.00.30 W
+| Hontanares | Capilla | 41.16.49 N | 03.26.00 W
+| Íscar | Iglesia | 41.21.43 N | 04.32.11 W
+| La Granja | Palacio | 40.53.41 N | 04.00.29 W
+| La Pinilla | Estación Esquí | 41.12.05 N | 03.28.06 W
+| La Salceda | aeródromo | 41.03.52 N | 03.52.41 W
+| La Torre | Iglesia | 40.35.22 N | 04.57.38 W
+| Medina del Campo | Estación | 41.18.59 N | 04.54.31 W
+| Medina del Voltoya | Iglesia | 40.42.03 N | 04.33.37 W
+| Mengamuñoz | Iglesia | 40.29.03 N | 04.59.49 W
+| Mingorria | Estación | 40.44.53 N | 04.39.08 W
+| Mojados | Iglesia | 41.25.51 N | 04.40.04 W
+| Muñoveros | Iglesia | 41.10.07 N | 03.57.31 W
+| Navalmanzano | Iglesia | 41.12.51 N | 04.15.31 W
+| Niharra | Iglesia | 40.35.25 N | 04.50.17 W
+| Ojos Albos | Iglesia | 40.42.20 N | 04.30.54 W
+| Olmedo | Iglesia | 41.17.21 N | 04.20.58 W
+| Otero de Herreros | Estación | 40.48.01 N | 04.12.25 W
+| Paredes de Nava | Iglesia | 42.09.16 N | 04.42.02 W
+| Peñafiel | Castillo | 41.36.06 N | 04.06.59 W
+| Piedrahita | Iglesia | 40.27.49 N | 05.19.36 W
+| Retortillo de Soria | Iglesia | 41.18.38 N | 02.58.54 W
+| Riaza | Iglesia | 41.16.37 N | 03.28.26 W
+| Rio Riaza | Embalse | 41.14.41 N | 03.26.57 W
+| Riofrío | Palacio | 40.52.08 N | 04.05.59 W
+| Riofrío | Embalse | 40.51.41 N | 04.09.14 W
+| Riofrío de Riaza | Iglesia | 41.14.41 N | 03.26.57 W
+| Rueda | Iglesia | 41.23.43 N | 04.57.45 W
+| San Esteban Gormaz | Castillo | 41.34.37 N | 03.12.20 W
+| San Ildefonso L.Granja | Palacio | 40.53.41 N | 04.00.29 W
+| San Rafael | Túnel | 40.42.38 N | 04.52.55 W
+| Santo Tomé | aeródromo | 41.11.43 N | 03.35.46 W
+| Sanchidrian | aeródromo | 40.54.02 N | 04.36.34 W
+| Santa Olalla | Iglesia | 40.01.29 N | 04.25.33 W
+| Segovia | Acueducto | 40.56.49 N | 04.06.46 W
+| Sepúlveda | Iglesia | 41.17.41 N | 03.44.33 W
+| Sierra Alto Rey | Antenas | 41.09.59 N | 03.03.35 W
+| Somosierra | aeródromo | 41.08.47 N | 03.35.38 W
+| Tordesillas | Puente | 41.29.52 N | 05.00.04 W
+| Tudela de Duero | Puente s/Duero | 41.34.58 N | 04.34.58 W
+| Villacastin | Iglesia | 40.46.50 N | 04.24.42 W
+| Villacastin | aeródromo | 40.47.11 N | 04.27.17 W
+| Villatoro |  | 40.33.26 N | 05.06.27 W
+
+| Bifurcación N110-N502 |  | 40.37.51 N | 04.46.13 W
+| Cruce N1-N110 |  | 41.11.21 N | 03.34.48 W
+|===
+
+<<<
+== Vuelo 300 KMS.
+
+* _PILOTO:_ Fernando Correa
+* _FECHA:_ 18/07/95
+* _VELERO:_ LST EC-FJH "SH"
+* _TRAYECTO:_ FUENTE-RIAZA-VILLATORO-FUENTE
+
+Después de una semana de tiempo bastante desastroso, hoy por fin, la
+predicción meteorológica parece augurar un día positivo, así que después de
+cumplir el rito de limpiar minuciosamente el velero, me dispongo a preparar
+los trastos: barógrafo, cámara, hoja de vuelo, etc.
+
+A medida que avanza la mañana, las predicciones parecen confirmarse, y a los
+primeros cúmulos que siempre aparecen sobre Peñalara, se suceden rápidamente
+otros sobre La Mujer Muerta y algunos más sobre el llano.
+
+Una vez en cabecera de pista, ya a las 13:00 h, se confirma la bondad del
+día.
+Despego a las 14:00 h con la atmósfera casi atómica, y tras un remolque
+hasta los 600 m, asciendo rápidamente hasta los 1000 m al oeste del campo,
+tomo la foto de salida y me dirijo a Otero de Herreros encontrando buena
+ascendencia.
+
+Realizo el trayecto Otero-Mujer Muerta-Peñalara sin dificultad, y ya en
+Peñalara gano el máximo de altura y me lanzo a un planeo por la cresta de la
+sierra hasta La Salceda, donde comienzan las dificultades para avanzar, pero
+tras tantear un poco y con 2000 m de altura, decido dar el salto hacia Santo
+Tomé siguiendo la sierra, aunque veo buenos cúmulos en el llano bajo los que
+evolucionan algunos parapentes de Arcones.
+No tardo en comprobar que quizá me he equivocado, porque no encuentro gran
+cosa sobre las montañas.
+
+Sigo adelante, y llego a Somosierra habiendo perdido 500 m, y comienzo a
+virar una térmica justo sobre la autopista hasta recuperar los 2000 m, cosa
+que me tranquiliza.
+
+Ahora observo debajo el aeródromo de Santo Tomé, y más allá, hacia el
+noreste, el pueblo de Riaza.
+El trayecto hasta Riaza es bastante cómodo, aunque el cielo está casi azul,
+pero encuentro un par de térmicas que me ayudan a avanzar, hasta que hago
+las fotos y regreso por la misma senda.
+Aprovecho para comer una manzana y beber agua, mientras observo un intenso
+ir y venir de veleros a distintas alturas.
+
+Esta vez regreso un par de kilómetros hacia el llano, siguiendo los cúmulos
+que divisé al venir, y que han mejorado de aspecto.
+
+Al principio avanzo lentamente, pero a partir de La Salceda, observo que los
+cúmulos sobre la sierra se han soldado formando una masa de aspecto
+poderoso, así que me dirijo hacia ella para probar suerte.
+Comienzo a encontrar ascendencias de 4 y 5 m/s, de manera que asciendo
+volando en línea recta.
+Asciendo poco a poco y, a la altura de La Granja, estoy rozando las barbas
+de los cúmulos, así que empujo la palanca con decisión.
+
+Vuelo a 170 km/h, sin perder altura, me ajusto bien los cinturones y
+disfruto de ver "pasar el terreno" a velocidad supersónica.
+Empiezo a comprobar que el LS7, aún sin lastre, es un auténtico "misil".
+
+La convergencia de térmicas es tal, que alcanzo el embalse de Los Ángeles de
+San Rafael volando siempre en positivo, hasta que salgo a cielo abierto y
+tiro de la palanca para reducir la velocidad hasta 110 km/h, con lo que
+asciendo 200-300 m y me coloco por encima del nivel de condensación.
+
+Comienzo un planeo hacia la Cruz de Hierro, muy emocionado por el tramo
+anterior y pletórico de moral para afrontar el tramo hasta Villatoro.
+
+Sobre Villacastín, me encuentro frente a un verdadero enjambre de parapentes
+de todos los colores, que parecen suspendidos inmóviles ante la proa de mi
+velero y, por unos instantes, me quedo estupefacto por la gran cantidad que
+puedo ver a distintas alturas, pero enseguida me acuerdo de que se está
+celebrando un Campeonato del Mundo en Piedrahita, y deduzco que Villacastín
+debe ser un punto de viraje.
+Llamo a Fuentemilanos y lo comunico para poner sobre aviso a otros veleros.
+Me desvío hacia el norte para evitarlos y me deleito observándolos mientras
+avanzo, pero no deja de ponerme la carne de gallina el pensar qué pasaría si
+me llevase uno por delante.
+Puedo imaginar la inmensa campana cubriendo mi cabina y el parapentista
+colgando arrastrado por el velero mientras caemos los dos: ¡realmente
+terrorífico!
+
+Sigo adelante hacia la Sierra de Ávila, con mil ojos a la búsqueda de las
+multicolores campanas de los parapentes, para evitarlas lo antes posible.
+Mientras, llamo a Salamanca Torre para solicitar autorización para penetrar
+en la zona, y que se me concede inmediatamente.
+
+A la altura del aeródromo de Valle Amblés, se me acaba la buena racha y
+empiezo a sufrir para poder avanzar; el Valle de Ávila comienza a hacer de
+las suyas y me veo metido en un prolongado negativo perdiendo más altura de
+la que desearía.
+Sólo hay un cúmulo a mitad de camino hasta Villatoro, y voy a por él, pero
+al llegar busco y busco, pero la ascendencia no aparece.
+Sigo adelante y ya en azul, y bastante preocupado, logro enganchar un
+ascendencia de 2 m/s que me tranquiliza y comienzo a virar para ganar los
+metros perdidos.
+
+Dos alas delta giran la misma térmica, pero bastante más abajo; me consuela
+pensar que lo están pasando peor que yo.
+
+Con 1700 m, salto hacia Villatoro y al alcanzar la posición para tomar la
+fotografía, encuentro una térmica que me facilita hacer dos disparos
+mientras giro ascendiendo; todo un lujo.
+Ahora me siento más tranquilo y me embarga la sensación de haberlo logrado,
+pero aún me falta volver a Fuentemilanos.
+Más alas delta acuden también más abajo a esta misma térmica.
+
+Con 1900 m, comienzo un planeo a lo largo de la Sierra de Ávila,
+aprovechando cada ascendencia que encuentro bajo los nuevos cúmulos que han
+ido apareciendo.
+Son las 17:30 h cuando alcanzo la parte norte de Ávila ciudad, así que llamo
+a Salamanca para comunicar mi salida y despedirme.
+
+Planeo bastante rápido pero sin perder altura, dejo atrás Villacastín y
+Campolara y me dirijo directo a Fuentemilanos donde llego con 800 m, de
+sobra para tomar la foto desde el este y, tras un par de circuitos,
+aterrizar a las 18:00 h en punto.
+
+Total 4 horas de vuelo en un velero maravilloso y mi primer 300 km.
+
+<<<
+== Vuelo 500 Kms.
+* _PILOTO:_ Miguel Cruchaga
+* _FECHA:_ 15/07/92
+* _VELERO:_ 184 D-99
+* _TRAYECTO:_ FUENTE-BURGO DE OSMA-MENGAMUÑOZ-RIAZA-FUENTE
+
+El briefing, muy temprano; en esa época hay días que la actividad puede
+empezar, en la Montaña, a las 10:30 de la mañana, siendo consistente ya a
+las 11:00.
+
+La gráfica muestra techos altos pero con pocos cúmulos, probabilidad de
+"azul" todo el día.
+Esto añade dos complicaciones a un vuelo largo: la primera, no "ver" las
+térmicas coronadas por hermosos cúmulos, y la segunda, nada desdeñable, es
+estar todo el día sin sombra, achicharrado en la cabina.
+No obstante, voy a intentarlo, pues con techos de 3000 mts, hay mucho margen
+para viajar.
+
+Almuerzo frugalmente y limpio el LS4; no hay que apresurarse, pues es la
+peor forma de salir a volar.
+
+En cabecera, las charlas habituales: "¿500? Ah, sí.
+Muy bien.
+Grande piloto."
+
+Decido hacer El Burgo de Osma-Mengamuñoz-Riaza.
+Son 540 kms largos, pero así rompo un poco la rutina de este aeródromo de
+hacer Ayllón-Villatoro-Plaza como primer vuelo de 500 kms.
+
+Cámara, barógrafo, mapa, ticket de remolque, y...
+a esperar.
+(El orden de salida es, -debe serlo- muy riguroso con tantos veleros).
+
+.Fuentemilanos, cabecera 34 en un típico día de verano a la hora de la salida
+image::cola-salida-34.png[]
+
+Salgo cerca de las 13:00 horas y el remolque es ya muy movido.
+Suelto a 450 mts, y me pongo a girar.
+Subo bastante rápido y veo algún velero más alto, así que voy "pitando" a la
+torre a hacer la primera foto, vuelvo a "mi" térmica y, a 2200 mts, pongo
+rumbo al Este.
+
+Primera decisión habitual en esta zona: ¿La montaña o el llano? Como a unos
+kilómetros por delante veo un velero conocido (más adelante veréis por qué
+no doy más señas), que también va a por su primer 500 y que enfila Segovia,
+opto por la más relajada llanura y me desplazo 1 km de su ruta para así
+"barrer" más fácilmente los huecos azules.
+
+Vamos avanzando sin prisas, ya que a veces nos quedamos a menos de 1000 m, y
+los cúmulos escasean.
+
+[sidebar]
+****
+Mantengo las distancias con el susodicho velero y vamos pasando los puntos
+habituales: La Salceda, Santo Tomé, Ayllón.
+Con San Esteban de Gormaz a la vista, y más allá El Burgo, le veo
+desplazarse ostensiblemente a NW y llamo por radio, ya que me parece
+excesiva desviación para aprovechar una térmica:
+
+[verse]
+----
+- "Voy a hacer la foto", me contesta con sorpresa.
+- "Pero eso no es El Burgo, es San Esteban", le contesto.
+- "No, no, es El Burgo".
+----
+
+Rápidamente consulto el mapa, para tener certeza absoluta, e insisto:
+
+[verse]
+----
+- "El Duero no pasa por El Burgo de Osma".
+----
+****
+
+Silencio de la radio esta vez, mientras tanto yo estoy ya haciendo la foto y
+le veo, por fin, unos 500 m por debajo sobre una pequeña colina; giro y a mi
+altura es un +1-1,50 m/s, para él es un "cero", yo estoy volviendo y él no.
+Su "cero" no se consolidó y yo gané unos 500 m que me sirvieron para enfilar
+hacia la sierra de Ayllón con confianza.
+
+Él estuvo "arrastrándose" durante un buen rato, ya con la perspectiva de una
+toma "fuera" que no hizo, pero perdió el tiempo suficiente como para no
+cerrar el circuito.
+
+Cuento todo esto tan minuciosamente, porque soy partidario de que ningún
+primer gran vuelo (primer 300 km, primer 500 km, etc.) debe hacerse sin
+haber sobrevolado cada punto de viraje con anterioridad, en vuelos más
+cortos de ida y vuelta.
+Así, a los nervios lógicos de esos momentos, no se añade el problema de la
+navegación.
+
+Llego justo, justo, al monte y sobrevuelo literalmente la estación de esquí
+de La Pinilla, pero una ladera en verano es una inversión segura y mis
+esfuerzos se ven recompensados.
+Tras unos vacilantes "ceros", lo que se estaba "cociendo" debajo de mí, se
+dispara y sube el velero a 3000 m, y mi optimismo mucho más arriba.
+
+Cojo la "M-300" (Riaza-Villatoro) y a buen ritmo y sin bajar de 2000 m paso
+Fuentemilanos y, enfrente de mí, la nada...
+de nubes.
+Un inmenso agujero azul se extiende en todas las direcciones.
+Bajo el ritmo y observo un rato, viendo varios veleros bastante por debajo,
+con lo que se confirma una vez más el dicho de que cuando estás arriba todo
+va bien, y cuando estás abajo todo va mal (no solo en VSM pasa esto).
+
+Veo Ávila a unos 20 km, y otra duda: ¿por el norte por la Sierra de Ávila, o
+por el sur por La Paramera? Sin ninguna razón objetiva, voy por La Paramera,
+que es un poco más corto y la cosa me va bien.
+He decidido no desperdiciar nada en absoluto que pueda ser girado y voy a
+Menga y vuelvo sin muchas complicaciones.
+(En esa época, todavía no se había popularizado Piedrahíta como lugar de
+salto de nuestros amigos de la tela, ahora hay que tener mucho cuidado por
+la densidad de tráfico).
+
+Un sólo cúmulo a la vista, (Peñalara, a 80 km de Ávila), me confirma que las
+cosas no van a ser fáciles el resto del día (Me faltan 180 km).
+Sigo hasta la zona de La Salceda, y no mucho más alto que el relieve, voy
+buscando cualquier signo que me permita "repostar" (buitres, golondrinas,
+etc., etc.).
+Llego hasta Santo Tomé sin haber mejorado mi situación y decido continuar
+hasta Riaza y hacer la foto.
+
+La "excursión" me cuesta mi último margen y estoy más bajo que la montaña.
+Analizo la situación a unos 900 m sobre Santo Tomé.
+Decido arriesgarme (Sin ningún peligro físico, pues estoy sobre una "zona
+aterrizable") y paso al lado Sur-Suroeste de La Cebollera que recibe el sol
+de lleno.
+Trazo unos "ochos" sobre la ladera y, efectivamente, allí estaba, no muy
+fuerte a esas horas, pero me sube, y ya, totalmente relajado con 2200 m,
+decido dejarla y enfilo directamente a Fuentemilanos a 110-120 km/h, mirando
+el paisaje y engordando de satisfacción unos 3 kg/minuto.
+
+.El aterrizaje y las cervezas posteriores son trámites correctamente resueltos.
+image::fuentemilanos-torre.png[]
+
+<<< ==Vuelo 798 kms récord de España
+
+* _PILOTO:_ Juan José Gresa
+* _FECHA:_ 2/08/94
+* _VELERO:_ DG-600 EC-FJC "VA"
+* _TRAYECTO:_ FUENTE-MONREAL DEL CAMPO-LERMA-PIEDRAHÍTA-FUENTE
+
+Después del 1000 km del pasado año, que finalmente fue homologado por la FAI
+como el número 239 a nivel mundial, mi ambición este año 1994 era conseguir
+el 1000 km triángulo FAI.
+Esto requiere tener que bajar a La Mancha desde Fuentemilanos, dándole la
+vuelta a Madrid.
+
+Como entrenamiento llevaba una buena racha desde mi llegada, con excelentes vuelos de distancia: 25/7 = 507 km, 26/7 = 758 km, 27/7 = 752 km, 31/7 = 386 km y 1/8 = 572 km.
+
+La previsión meteorológica para el día 2/8 era buena, con techos previstos
+de 2500 m (las alturas son siempre sobre el aeródromo de Fuentemilanos),
+térmica fuerte con vientos de intensidad media del sureste, por lo que
+decidí declarar un triángulo FAI de 807 km (el lado más corto del triángulo
+no debe ser inferior al 26% del total), con recorrido: Fuentemilanos
+(Segovia)-Monreal del Campo (Teruel)-Lerma (Burgos)-Piedrahíta (Ávila); así
+pues, Fuentemilanos queda en el centro de uno de los lados del triángulo.
+De conseguirlo, sería Récord de España.
+
+El viento fuerte del suroeste no crea condiciones ideales para salir por la
+sierra hacia Somosierra y así aprovechar la orografía del terreno en las
+primeras horas del día, cuando la térmica aún no es muy buena, y de esta
+forma, salir pronto.
+
+Salí por el valle con poca altura y despacito, llegué a La Pinilla en las
+montañas de Riaza por debajo de los picos, y proseguí hasta Alto Rey no muy
+alto sobre la zona montañosa; con alturas máximas de 1600 m pasé por Atienza
+en dirección a Medinaceli, y fue ya bien pasado este pueblo que subí en una
+buena térmica de +3 m/s hasta los 2300 m.
+A partir de este momento, las ascendencias ya fueron buenas y llegué hasta
+Monreal del Campo entre 1700 y 2400 m.
+
+Saco la foto de rigor con 2600 m y, siguiendo buenas calles de nubes,
+progreso muy rápido hacia Lerma, mi segundo punto de viraje.
+La zona de Berlanga está muy bien, con desarrollos excelentes que me
+permiten subir muy rápido y hacer largos tramos con muy poca pérdida de
+altura.
+El promedio ya pasa de los 100 km/h.
+
+A unos 30 km de Lerma, el cielo cambia de aspecto y se deteriora
+rápidamente.
+El techo de nubes baja a 1100 m y la térmica media es de solo 1,0 m/s.
+Llego a Lerma con 600 m, saco la foto y poco después bajo a 400 m, lo que me
+obliga a tirar el agua.
+Ahora tengo viento fuerte de cara y el cielo está limpio de nubes, siempre
+un panorama sombrío, pues cuando no hay nubes es por alguna razón y nunca
+buena cuando las he tenido durante todo el día y el viento lo ha roto todo.
+
+El tramo hasta Piedrahíta es un verdadero calvario, con ascendencias rotas y
+turbulentas por el viento, con techo máximo de 1100 m, que me obliga a
+aprovechar lo que encuentro y que al mismo tiempo, cada vez que espiralo,
+retrocedo terreno empujado por el viento.
+
+Llego a Cuéllar esperando encontrar ascendencias buenas en los bosques, pero
+sigue todo muy roto.
+Pasando Cuéllar empeora y me arrastro entre 600 y 800 m; la velocidad media
+ya es muy baja y, en este tramo, no llega a 80 km/h.
+
+En las cercanías de Sanchidrián, me quedo muy bajo y empiezo a ojear campos
+por si tengo que tomar tierra, por suerte los hay, y grandes, lo que me
+tranquiliza y me anima a seguir adelante, aunque las posibilidades de
+finalizar el recorrido son mínimas, por lo que decido ir hacia Ávila y sacar
+unos cuantos kilómetros más.
+
+Esta decisión de ir a hacer el mayor número posible de kilómetros, me paga
+con oro, pues unos kilómetros más allá y en las cercanías de Ávila, veo un
+velero muy alto que se dirige al Oeste a pesar de que es muy tarde, e intuyo
+que las pequeñas nubecitas que se hacen y deshacen rápidamente, indican que
+hay convergencia en la zona.
+
+Llego muy bajo a las primeras formaciones rocosas al Oeste de Ávila y
+conecto con una ascendencia sensacional de +3,5 m/s de media que me sube
+como un rayo a 2300 m, todavía hay esperanzas de conseguirlo.
+
+Sigo la línea que marcan las nubecitas difíciles de ver contra el sol que ya
+desciende rápidamente en el horizonte, y llego a Villatoro con 2200 m.
+De allí a Piedrahíta no hay nada, y en planeo a máxima fineza, llego y saco
+la foto con 1600 m a las 20:35 horas.
+
+Me dirijo de nuevo a Villatoro.
+Una zona rocosa encarada al Oeste que recibe los últimos rayos del sol, que
+ya se oculta, donde llego con 1300 m, que sobre el terreno es justo.
+Subo en una térmica muy débil pero constante que se refuerza con la altura y
+que pacientemente me eleva a 2000 m.
+Ya tengo el récord en el bolsillo, pues debería encontrar alguna ascendencia
+cerca de Ávila para mantener la altura que voy a necesitar para pasar el
+sotavento que habrá en el pantano de Riofrío, donde tengo que hacer la foto
+de final de trayecto.
+Así sucede.
+Llegando a Ávila y en el mismo sitio donde subí camino a Piedrahíta,
+encuentro una ascendencia débil que me sube otra vez a 2000 m.
+Ahora ya llego bien pero sin que me sobre demasiada altura.
+
+En Riofrío saco la foto con 700 m, lo que me garantiza la llegada sin
+sufrimientos a Fuentemilanos.
+
+El vuelo ha sido de 9 horas 25 minutos totales, aunque en tiempo real desde
+la foto de salida de Riofrío ha sido de 8 horas 50 minutos, lo que da un
+promedio de 91 km/h, bajo, pero que considerando las dificultades, me
+satisface plenamente.
+
+La distancia final homologada es inferior a los 807 km del GPS, y es de 798
+km.
+
+Al día siguiente salía para intentar el deseado 1000 km FAI.
+Después de virar Ayllón, el embalse de Contreras (Valencia) y de camino a
+Cáceres, tuve que aterrizar en Mora de Toledo obligado, después de 557 km y
+con buen promedio, por un frente de tormentas.
+
+<<<
+== Vuelo 1.025 kms, primer "1000" de España
+
+* _PILOTO:_ Juan José GRESA
+* _FECHA:_ 12/08/93
+* _VELERO:_ DG-600 EC-FJC "VA"
+* _TRAYECTO:_ FUENTE-MONTEAGUDO-HERVÁS-EMBALSE MONTEAGUDO-FUENTE.
+
+El tiempo había sido muy variable, sin tener dos días consecutivos de tiempo
+similar; el 10 y 11 habían sido días de 300 km.
+El 11/08 contra pronóstico, resultó un día excelente, saliendo las 15:00 h,
+hice un 503 km en 3 horas 54 minutos con 129 km/h de promedio, sin bajar de
+2000 m, con techo máximo de 3200 m y térmica media de +6,2 m/s.
+
+En el briefing se pronosticó un día similar con techos de 3600 m en la
+montaña, térmica fuerte, riesgo de tormentas aisladas por la tarde y
+actividad térmica desde las 11:30 h hasta las 20:00 h.
+
+_11:28_ Despego remolcado por el compatriota Antonio González, que como de
+costumbre, me lleva directo a las montañas.
+Me dedico a buscar la primera térmica que sube a +0,5 m/s, reforzándose
+luego hasta +2,0 m/s.
+Aunque sólo sube hasta 1800 m, en el observatorio de Navacerrada logro subir
+con buena térmica hasta 2200 m.
+De ahí me dirijo al pantano de Riofrío para sacar la reglamentaria foto de
+salida.
+
+_12:16_ Saco la foto con 1900 m, e inicio el primer tramo hacia Monteagudo
+(Zaragoza) a 181 km.
+Me dirijo al observatorio de Navacerrada para ganar altura, y subo a 2300 m.
+De allí, siguiendo el Guadarrama por las laderas Sur encaradas al sol, bajo
+poco.
+En la zona de La Salceda subo bajo una buena nube a 2600 m y a alta
+velocidad 180/200 km/h, llego a La Pinilla (74 km) en 29 minutos (153 km/h)
+lo que me indica que el día, es bueno.
+
+En la sierra de Ayllón y al comienzo de una calle de nubes, subo a +5 m/s
+hasta la base a 2900 m.
+Desde allí a la velocidad según el GPS de 200-240 km/h, llego hasta pasado
+Berlanga de Duero, donde se acaban las nubes y es totalmente azul; reduzco
+la velocidad a máximo planeo con rumbo a Monteagudo a 58 km, y con 2800 m.
+
+13:45 Saco la foto de Monteagudo con 1700 m.
+El promedio ha sido muy bueno, 122 km/h para el primer tramo.
+Inicio el segundo tramo hacia Hervás (Cáceres), distante 334 km.
+Al tener altura baja, para poder seguir rápido, me dirijo hacia el Sur de
+Monteagudo muy cerca de la autovía, donde hay una calle de nubes, aunque
+ésta no fuera la ruta óptima, llego bajo con 1000 m, pero subo muy rápido a
++4 m/s hasta la base a 2900 m.
+
+Prosigo hacia la calle de nubes que había dejado al Norte de Atienza y
+conecto con una zona de nubes sobredesarrollada, donde me coge una débil
+lluvia, pero la parte Sur sube bien y sigo a alta velocidad, sobre los 200
+km/h siguiendo la calle de nubes hasta el observatorio de Navacerrada entre
+2000-2500 m.
+Llego muy rápido al Sur de Ávila y subo a 3000 m, habiendo delfinado
+ascendencias de hasta +3 m/s sin espiralear.
+
+Las nubes se acaban antes de Mengamuñoz a 90 km de Hervás.
+Roland, piloto alemán que ha virado sobre El Barco de Ávila, me comunica
+térmica regular en la zona.
+Subo en azul al Oeste de Mengamuñoz hasta 2900 m con térmica muy turbulenta,
+pero buena, y a máximo planeo, me dirijo a Hervás.
+
+Hervás está situado justo detrás de una zona muy abrupta e inaterrizable
+cerca del Puerto de Tornavacas (2401 m) y con 1700 m, tengo una seguridad de
+300 m, por lo que me dirijo con cautela sobre la vertical de la cresta, para
+no caer a sotavento y ya muy cerca de Hervás y cerca de las cimas, concluyo
+que el viento es Sudeste.
+Sigo las crestas por el lado Este y logro subir a 1800 m, saliendo hacia
+Hervás para la foto.
+
+_16:45_ Saco la foto en Hervás con 1700 m.
+El promedio ha sido bueno a pesar de ser azul y difícil.
+Al final del tramo, han sido justo 3 horas, con un promedio de 111 km/h, y
+el acumulado sigue siendo bueno, con 4 horas 29 minutos y un promedio de 115
+km/h.
+
+Me dirijo al último punto de viraje, el Embalse de Monteagudo a 329 km.
+Debido a la altura de las montañas, me dirijo a la parte más baja y cercana
+frente a Hervás, para que no me coja el sotavento, al estar Hervás al Oeste
+de la sierra.
+
+Llego justo para saltar y hacer ladera al Este.
+Hay desprendimientos muy turbulentos que no consigo centrar bien, por lo que
+sigo la ladera para no perder tiempo y llego cerca del Barco de Ávila con
+1500 m y subo bien hasta los 1800 m.
+Esta altura me garantiza llegar hasta el Sur de Villatoro en las montañas
+donde hay una ladera que siempre desprende y donde veo otros veleros
+subiendo.
+
+Llego bajito, con 1400 m, para subir rapidísimo a +5,4 m/s hasta 3000 m.
+De nuevo, conecto con la calle de nubes que había dejado a la bajada, y a
+alta velocidad llego hasta cerca de San Rafael, pero bajo 1600 m.
+El cielo ha cambiado y se vé muy soldado y es imposible ver las calles.
+Tengo que elegir nubarrones especificos con descendencias fuertes entre uno
+y otro, los techos bajan y en el observatorio de Navacerrada sólo subo hasta
+2500 m.
+Prosigo por el valle Sur del Guadarrama, con un cielo poco prometedor y con
+algunas nubes que lloviznan.
+Me quedo a 1400 m en medio del valle y dudo si proseguir.
+
+Estoy demasiado bajo para llegar a Somosierra/Santo Tomé, y ya son las 18:15
+horas con aproximadamente 340 km pendientes.
+Calculo que con el viento en cola puedo llegar al embalse de Monteagudo a
+las 19:30 horas y a Fuentemilanos a las 21:00 horas.
+
+Prosigo hacia los montes de Ayllón entre 1400-1700 m después de subir a 1800
+m.
+La zona montañosa inaterrizable es impresionante a baja altura, pero no me
+presenta grandes dificultades.
+
+En la distancia y cerca de la sierra de Alto Rey, veo una nube espectacular
+en formación.
+Llego bajo y subo a +5 m/s hasta 3000 m.
+Tantas eran las ansias de subir durante tanto tiempo, que subo demasiado
+hasta la base, lo que me impide ver que me meto dentro de una tormenta
+siguiendo las barbas.
+
+No salgo bien parado de esta equivocación y pierdo 1000 m, al atravesar la
+lluvia hacia el sol.
+El cielo después no pinta bien, planeo hasta el embalse de Monteagudo sin
+tocar prácticamente nada, aunque sin descendencias fuertes.
+
+19:32 Saco la foto del embalse con 1400 m.
+El promedio ha sido bueno a pesar de las dificultades.
+Gracias al viento en cola hago 118 km/h, y el acumulado sigue siendo bueno a
+116 km/h.
+Prosigo hacia casa con mucha cautela, aunque no puedo perder tiempo ya que
+se hace demasiado tarde.
+Hay una gran tormenta justo en dirección a Fuentemilanos, el cielo está
+totalmente tapado, por lo que decido rodear la tormenta y dirigirme hacia el
+sol en la zona de Almazán, que representa una desviación importante.
+Tal como me acerco al sol, se vuelve muy turbulento y asumo que es el efecto
+de sotavento de la tormenta, aunque me conforta el hecho de que hay
+inestabilidad.
+Al no poder subir bien en la turbulencia, tiro todo el agua y logro subir
+con dificultad a 1800 m.
+Prosigo y paso muy cerca de Almazán, dirigiéndome al lado Norte de la
+tormenta y me cogen descendencias muy fuertes que, de nuevo, me bajan a 1400
+m y me temo una toma fuera de campo.
+Salgo rápido de la zona yendo más al Norte y por fin encuentro una
+ascendencia decente que me sube a 2200 m.
+
+Ya llego seguro a Santo Tomé, donde hay un aeródromo.
+Son las 20:05 horas y aviso a Fuentemilanos de que estoy a 120 km con 2000
+m, pues la batería empieza a fallar.
+Desde aquí hasta Riaza no encuentro nada a pesar de buscar en todas las
+nubes, o más bien restos, que encuentro.
+Cruzo de planeo el borde Norte de la sierra de Ayllón y llego a La Pinilla
+con 900 m.
+El humo de un pequeño fuego en Riaza, me indica que debería haber efecto
+ladera.
+
+Al volar muy cerca de las rocas y en la ladera de La Pinilla, el vario se
+anima y llego a Somosierra con la misma altura y un acumulado de +0,02 m/s,
+por lo que decido seguir hasta Segovia.
+Son las 21:15 y el sol está prácticamente desapareciendo en el horizonte.
+Prosigo volando justo sobre el borde de la sierra, aunque algo por debajo de
+la cota, y sin perder altura.
+
+Al llegar a Arcones, sigo teniendo 900 m y paso justo a la altura de unos
+caballos y vacas que pastan.
+Tal como sube la montaña hacia La Salceda, el vario se anima y me da +1,00
+m/s, subiendo hasta 1000 m.
+Intento cruzar el saliente de La Salceda por el medio, pero la altura no es
+suficiente y la visibilidad contra el ocaso no me deja ver bien la altura de
+los pinos, por lo que decido bordear el morro.
+
+Me coge algo de sotavento y llego a la parte Oeste de La Salceda (36 km) con
+750 m, demasiado justo para iniciar un planeo sobre zona inaterrizable y con
+visibilidad limitada.
+
+Prosigo siguiendo la ladera con +0,00 m/s, aunque luego sube a +0,40 m/s y
+se mantiene así hasta justo antes de La Granja, donde ya con 800 m, inicio
+el planeo final con todas las garantías de llegar a Fuentemilanos.
+
+Las luces de Segovia dan un aspecto precioso al crepúsculo y siento una
+alegría indescriptible al saber que ya llego.
+Son tantas las ganas que, inconscientemente, la velocidad sube a 180 km/h y
+tengo que frenarme para llegar con el margen de seguridad que siempre me
+marco de 300 m.
+
+La visibilidad es ya muy pobre y me cuesta ver con claridad el GPS que me
+lleva directo al campo.
+Llego con 300 m y me doy el gustazo de hacer una pasada a alta velocidad.
+Son las 21:35 horas cuando aterrizo, donde me esperan unos buenos amigos y
+compañeros que, durante años, me han alentado y ayudado a hacer realidad
+este sueño.
+Entre ellos, Ingo Renner, del que tanto aprendí volando distancia en varias
+ocasiones, así como Pedro Berlinches y Antonio González que me han ayudado
+incondicionalmente en mi empeño.
+
+Contrariamente a lo que había pensado muchas veces, después de volar 10
+horas y 5 minutos, no me siento cansado.
+Lo primero que hago es llamar por teléfono a Verónica, mi mujer, que ha
+estado pendiente del teléfono en el hotel por si tomaba fuera.
+Sin su ayuda, soporte y paciencia, nunca hubiese conseguido esta meta.
+
+<<<
+== Perfil meteorológico de un día de 1000 kms
+
+[verse]
+Estudio realizado por Pedro Berlinches Fuentemilanos, Febrero 1.996.
+
+Tras una paciente recopilación y estudio de los datos meteorológicos
+correspondientes a días "explosivos" en los que se han podido realizar
+vuelos de 1.000 km y a lo largo de los años 1991, 1992, 1993 y 1995 , el
+perfil resultante es el siguiente:
+
+TEMPERATURA REAL::
+La temperatura real, suele oscilar durante el día entre una mínima de 18,7°C
+y una máxima de 33,5°C.
+
+HUMEDAD::
+La humedad relativa suele oscilar durante el día entre un mínimo del 32% y
+un máximo del 57%.
+
+PUNTO DE ROCÍO (D.P.)::
+La temperatura del punto de rocío ideal es de unos 10,2 °C.
+
+CURVA DE ESTADO::
+La curva de estado coincide con la adiabática seca de 30 °C.
+hasta llegar a los 3.900 m QNH.
+A partir de aquí, suele tener una ligera inversión de temperatura.
+
+TORMENTAS::
+Según el estudio, todos los días coinciden en el 20% de posibilidades de
+tormentas en la montaña y en el 0% en el llano.
+
+TIPO DE NUBES::
+Las nubes son del tipo Cúmulos (Cu), oscilando entre 1/8 y 3/8 de Cu, y con
+Cumulonimbos (Cb) en la montaña.
+
+Suelen agruparse estos Cu sobre la montaña, formando una línea a lo largo de
+ella, más conocida como linea de convergencia.
+
+.Tiempo previsto Fuentemilanos
+[cols="2,2,2", options="header"]
+|===
+|   Tiempo           | previsto                | Fuentemilanos
+| TEMP. MÍNIMA       | 18,7 °C                 |
+| TEMP. ACTUAL       | 22,0 °C                 |
+| TEMP. MÁXIMA       | 33,5 °C                 |
+| TEMP. DISPARO      | 29,3 °C                 | D.P.: 10,2 °C
+| HUMEDAD %          | 55,8                    |
+| CALIDAD TÉRM.      | MUY BUENA O SUPER BUENA |
+| NUBES              | Cu 1/8 a 3/8            | 2300 / 3600 m
+| VIENTO             | SUPERFICIE              | WNW 4 Kt.
+|                    | FL 50                   | .030 4 Kt.
+|                    | FL 100                  | .060 8 Kt.
+|                    | FL 150                  | .080 10 Kt.
+| TÉRMICA            | DESDE 11:00             | HASTA 21:00
+| TORMENTAS %        | MONTAÑA 20              | LLANO =
+| OBSERVACIONES      | Estudio realizado partiendo de datos meteorológicos de días de vuelo de 1.000 Kms, de los años 1.991 - 92 - 93 y 95. |
+|===
+
+== Navegación con GPS
+
+* *GPS* = GLOBAL POSITIONING SYSTEM*+
+* *Sistema de Posicionamiento Global*
+
+* Fuente:* Internet
+* Traducción:* Fernando Correa
+
+=== ¿Qué es el GPS?
+
+El GPS es un sistema de radionavegación basado en satélites, que ha sido
+desarrollado y puesto en marcha por el Departamento de Defensa de los
+Estados Unidos de América.
+
+El GPS posibilita a sus usuarios en tierra, mar y aire, determinar su
+posición tridimensional, su velocidad y el tiempo, las 24 horas del día, en
+cualquier situación atmosférica y en cualquier parte del mundo, con una
+precisión sustancialmente mejorada respecto a cualquier otro sistema
+existente en la actualidad y en un futuro cercano.
+
+El GPS se compone de tres segmentos: Espacio, Control y Usuario.
+
+El segmento del Espacio, consiste en una red de 24 satélites operacionales,
+situados en 6 órbitas circulares a 20.200 km sobre la Tierra, con una
+inclinación de 55º y un periodo de 12 horas.
+
+Los satélites están situados en las órbitas de tal manera que, en cualquier
+momento, habrá un mínimo de 6 de ellos a la "vista" desde cualquier lugar
+del mundo.
+Estos satélites emiten continuamente datos de posición y tiempo a los
+usuarios, en una banda de radar de 20 cm, correspondiente a una frecuencia
+de 1.227,60Mhz.
+y 1.542,75Mhz., incorporando cada satélite cuatro relojes atómicos de
+altísima precisión.
+La precisión en los patrones de tiempo es imprescindible para minimizar los
+errores.
+Son necesarias las indicaciones de tres satélites para poder obtener medidas
+en 2D y de cuatro satélites para medidas en 3D.
+
+El segmento de Control, consiste en una Estación Central en Colorado
+Springs, con cinco Estaciones de Control y tres antenas situadas en
+distintas partes del mundo.
+
+Las Estaciones de Control hacen el seguimiento de los satélites que tienen a
+la vista y recogen la información que emiten por medio de las antenas de
+Tierra, para luego, enviarla a la Central, donde se procesa para producir
+los datos actualizados de navegación de cada satélite.
+Esta operación se realiza dos veces al día, calculando la posición de cada
+satélite y corrigiendo su trayectoria si fuese necesario.
+La información actualizada, se vuelve a transmitir hacia cada satélite
+también a través de las antenas de Tierra.
+
+El segmento de los Usuarios, consiste en los receptores, procesadores y
+antenas que permiten a los usuarios recibir las emisiones de los satélites
+GPS y procesar su posición, velocidad y tiempo.
+
+=== ¿Cómo funciona?
+
+El funcionamiento del GPS se basa en la red de satélites.
+Los usuarios definen su posición en la tierra midiendo la distancia a que se
+encuentran respecto a un grupo de satélites en el espacio.
+
+Los satélites funcionan como puntos de referencia muy precisos,
+transmitiendo cada uno su señal de posición y tiempo.
+El receptor del usuario mide el tiempo que tarda en recibirse la señal, y
+calcula la distancia directa aparente entre el punto donde se encuentra y el
+satélite.
+Al recibir las mediciones de cuatro satélites distintos, se puede procesar
+la información y obtener las medidas de posición, velocidad y tiempo.
+
+Algunos receptores de GPS no sólo muestran esos datos, sino que ofrecen
+datos adicionales referidos a puntos concretos (Waypoints) o a mapas
+digitales.
+
+El GPS tiene aplicación en navegación terrestre, marítima y aérea, en
+observación y exploración geofísica, cartografía y geodesia, sistemas de
+localización, etc.
+
+=== Precisión, disponibilidad y fiabilidad
+
+Los satélites tienen una vida operacional de 7,5 años, y el programa de
+renovación de la red garantiza que de los 24 haya un 98% de probabilidad de
+tener 21 ó más en servicio en cualquier momento.
+
+.Los adelantos técnicos... ayudan a volar...
+image::Los-adelantos-tecnicos-ayudan-a-volar.png[]
+
+La disponibilidad se acerca al 100%, con cobertura extendida a todo el
+mundo.
+
+La precisión que ofrece el sistema, tiene 2 niveles: SPS y PPS.
+
+==== SPS - Standard positioning service.
+
+Servicio de posicionamiento normal.
+
+Para uso del público en general, abarca todo el mundo y ofrece una precisión
+horizontal entre 100 y 300 m, una vertical de 156 m y tiempo de 340
+nanosegundos.
+
+Este servicio está sujeto al control del Departamento de Defensa de los
+EE.UU., en función de las necesidades de la seguridad nacional.
+
+==== PPS - Precise positioning service.
+
+Servicio de posicionamiento de precisión.
+
+Este servicio ofrece el máximo nivel de precisión, pero la señal está
+codificada y sólo se proporciona al uso militar y uso civil autorizado.
+
+La precisión está en el campo de los 22 m horizontalmente, 27 m
+verticalmente y unos 90 Nanosegundos en la medición del tiempo.
+
+Para información adicional:
+
+[verse]
+----
+COMANDING OFFICER (NIS)
+U.S. Coast Guard NAVCEN
+
+7323 Telegraph Road
+Alexandria, VA 22315-3998
+
+Tel. (703) 313-5900
+Fax. (703) 313-5920.
+----
+
+
+== La navegación con ayuda de GPS
+
+[verse]
+----
+Fernando Lázaro Cadena
+MADRID - FEB. 96
+----
+
+No soy de aquéllos pilotos que aspiran a ver convertido su panel de
+instrumentos en un inmenso LCD, sigo pensando que un buen variómetro bien
+compensado es el único instrumento en el que merece la pena incrementar una
+posible inversión, pero por otra parte considero rentable invertir en
+aquello que aumente las condiciones de seguridad de nuestro vuelo o
+contribuya a hacer algo más placentero el hecho de volar.
+
+La utilización de cualquier sistema GPS aporta en mayor o menor medida su
+grano de arena en estos dos últimos aspectos.
+El conocimiento exacto de nuestra posición y la de nuestro posible destino,
+además de merecer ser elevado a virtud teologal de cualquier piloto, es
+inestimable en multitud de circunstancias (evitar la intrusión en zonas
+restringidas, pérdidas de tiempo en vuelos de distancia ajustados,
+localización más segura en tomas fuera de campo, etc.).
+Por otra parte el piloto de velero vuela permanentemente buscando indicios
+ascensionales y acaba normalmente apartado de la traza que se ha marcado en
+la carta.
+Razonar en cuántas ocasiones hemos acabado mareando el plano tras olvidar ir
+haciendo marcaciones en nuestra navegación.
+
+Este artículo está, por tanto, un poco más dirigido a aquellos pilotos cuyo
+nivel de pilotaje y conocimientos les impulsa, siempre que las condiciones
+meteorológicas acompañen, a volar con la vista puesta en el siguiente
+horizonte.
+
+El primer apartado es mencionar la posición del navegador.
+No me gusta la disposición en piernógrafos o situaciones laterales.
+Son un acicate para ir con la vista dentro de la cabina, y para un piloto de
+vela el acostumbrarse a apartar la vista de las referencias exteriores,
+puede acabar siendo fatal.
+Lo ideal sería panelarlo, pero no siempre el espacio o el modelo lo
+permiten.
+Personalmente lo suelo adaptar sobre el panel con unas tiras de velcro
+adhesivo, aunque la brújula quede tapada, las funciones del GPS incluyen la
+marcación del rumbo.
+
+En segundo lugar, hay que tener en cuenta la autonomía de su batería y la
+duración habitual de nuestros vuelos.
+En la mayoría de los casos, aquélla va a quedar ampliamente superada, por lo
+que se recomienda instalar el cable de alimentación a batería exterior que
+traen como accesorio.
+No considero necesario buscar un emplazamiento específico para la antena, se
+puede dejar sin problemas unida al navegador, salvo que panelemos éste.
+
+Aunque han pasado por mis manos diversos modelos de navegador GPS, mi
+experiencia se centra en la versión 2.50 del GARMIN 100, cuya característica
+más notable respecto a otros modelos es que permite efectuar una grabación
+del vuelo y reconstruirlo de forma gráfica en el PC, además de poder
+archivar y transferir entre ambos las bibliotecas de puntos y rutas, aspecto
+nada desdeñable si lo utilizamos en diferentes zonas y no queremos estar
+grabando y borrando datos del navegador para salvaguardar su capacidad de
+memoria.
+
+Considero rentable que tenga capacidad de trabajar con coordenadas UTM, ya
+que muchos de nosotros seguimos utilizando en sus diferentes escalas, la
+cartografía militar.
+La cuadrícula de ésta simplifica la siempre tediosa tarea del cálculo de
+coordenadas, y además, en el reverso del plano aparecen las coordenadas de
+los puntos más notables de la hoja.
+Personalmente no suelo trabajar con apreciaciones inferiores a 100 m,
+suficientes para el tipo de navegación que realizamos.
+
+Ya con el plano de la zona delante y con la mente puesta en mil proyectos de
+viaje, hay que plantearse dos opciones para seleccionar puntos de viraje.
+Si volamos con los ojos puestos en el ranking anual de la Federación, es
+mejor que seleccionemos aquellos puntos que podríamos llamar clásicos.
+Los comisarios que deban dar fe de vuestros vuelos, os lo agradecerán.
+
+El que sea algo más inquieto, puede realizar la selección buscando los
+puntos que llamen su atención por diversos motivos (históricos, románticos,
+místicos o familiares), todo vale, las únicas limitaciones a considerar son
+las propias de la zona o aquellas que consideramos pueden limitar la
+seguridad de una toma fuera de campo.
+
+Una vez introducidos los datos, podemos construir diferentes rutas en
+función del kilometraje y de la zona que deseamos volar; una ventaja más del
+GPS es que nos muestra directamente el kilometraje total de la ruta
+seleccionada.
+La ruta que seleccionemos en la posición "0" (R.O.) se presenta de forma
+automática en la pantalla de navegación.
+
+De los diferentes parámetros que pueden elegirse como opción en las
+diferentes pantallas, he acabado de usar los siguientes:
+
+*   La pantalla de navegación me muestra la velocidad (GS), rumbo al destino
+  (Bearing), rumbo actual de avión (TK) y distancia al destino (RNG).
+*   La escala del CDI la coloco al máximo (10 km) y la barra del mismo
+  indicando la posición del avión.
+  La GS comparada con la indicada, nos da una idea de cómo sopla el viento
+  en altura.
+  La distancia y la diferencia entre ambos rumbos, nos indican dónde tenemos
+  nuestro destino.
+  Por último, si estamos navegando con ruta establecida, la posición del CDI
+  puede ayudarnos para conseguir la foto justo en el centro del sector
+  válido.
+  Como es lógico, el sistema elegido para que se nos muestren las medidas,
+  debe coincidir con las del plano que utilicemos.
+*   En la opción de mensajes, me he acostumbrado a colocar el aviso de
+  llegada 3 km antes del punto, aunque cualquiera puede ser válido en
+  función del ángulo de visión que nos permita la cabina.
+*   Para la grabación de los datos del vuelo, utilizo la opción de
+  intervalos de tiempo a 30 segundos, lo cual permite reconstruir
+  posteriormente con facilidad los lugares y tiempos de virada.
+
+El empleo de la tecla de almacenamiento del punto actual (auto store), puede
+sernos útil para regresar a una buena ascendencia que abandonamos antes de
+dirigirnos al punto de viraje.
+
+Ya sólo es necesario practicar en dique seco todas las operaciones que
+pensemos vamos a ejecutar con el navegador en vuelo.
+Es necesario tener gran soltura en su manejo y evitar una manipulación con
+errores que acabará por hacer que dediquemos toda (o mucha) atención al
+"maldito trasto" en lugar de ocupar nuestra vista donde realmente hace
+falta.
+
+Por lo demás, que nadie piense que el GPS viene a sustituir la navegación
+con plano.
+El día más señalado suele aparecer Murphy para estropearte el invento o
+dejarte sin baterías.
+Utilizar el GPS para confirmar nuestras apreciaciones sobre el plano,
+constituye la mejor manera de evitarse un berrinche.
+
