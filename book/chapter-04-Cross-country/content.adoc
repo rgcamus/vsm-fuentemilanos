@@ -424,7 +424,7 @@ hacer Ayllón-Villatoro-Plaza como primer vuelo de 500 kms.
 
 Cámara, barógrafo, mapa, ticket de remolque, y...
 a esperar.
-(El orden de salida es, -debe serlo- muy riguroso con tantos veleros).
+(El orden de salida es, -debe serlomuy riguroso con tantos veleros).
 
 .Fuentemilanos, cabecera 34 en un típico día de verano a la hora de la salida
 image::cola-salida-34.png[]
@@ -1157,3 +1157,91 @@ dejarte sin baterías.
 Utilizar el GPS para confirmar nuestras apreciaciones sobre el plano,
 constituye la mejor manera de evitarse un berrinche.
 
+=== El GPS como evidencia para vuelos de distancia
+[verse]
+----
+Ian Strachan, SAILPLANE & GLIDING, Enero 1995.
+Extracto y traducción: Fernando CORREA
+----
+
+Hemos podido ver con cierta frecuencia anuncios en las páginas de SAILPLANE
+& GLIDING, anunciando el CAMBRIDGE SECURE FLIGHT RECORDER (REGISTRADOR DE
+VUELOS CAMBRIDGE), donde se ha comentado que se usará de manera experimental
+como evidencia de los vuelos a realizar en los Campeonatos Mundiales de VSM
+a celebrar en Nueva Zelanda.
+
+==== ¿En qué consiste el CFSR y en qué se diferencia de otros GPS normales?
+
+El objetivo básico de CFSR es servir como evidencia de vuelos de VSM en
+sustitución de los clásicos barógrafos, cámaras y observadores en las
+salidas y llegadas.
+
+El CFSR está diseñado como una caja cerrada que se instala en el velero tras
+el respaldo del piloto, de manera similar a como se instalan actualmente los
+barógrafos, pero con una pantalla de datos parecida a la del GPS Cambridge
+S-NAV, que se puede instalar en el panel de instrumentos y que proporciona
+datos de navegación al piloto, pero con la diferencia de que no se puede
+modificar su base de datos a menos que se haga desde un PC que se conecta a
+él antes del vuelo para el volcado de datos en ambos sentidos.
+
+El CFSR consiste en un GPS Garmin conectado a un grabador de datos y
+montados ambos en la misma "caja negra".
+Esta caja tiene conexiones para la pantalla, la antena y para alimentación
+suplementaria por células solares.
+También existe una conexión para la carga y descarga de datos vía PC, y otra
+para conectarse con un barógrafo electrónico que proporcionará datos de
+altura muy precisos, porque el GPS tiene un margen de error en la
+determinación de la altura entre 100 y 200 m, lo que invalida su uso como
+evidencia en vuelos de altura.
+
+El conjunto está dotado de varios dispositivos para garantizar la
+inviolabilidad de los datos: microinterruptores que detectarían la apertura
+de la caja, precintado del conector para el PC, protecciones electrónicas
+que detectarían cualquier intento de "injerencia" externa, etc.
+
+Una señal quedaría grabada si se hiciese intento de alterar los datos, y
+sólo se puede eliminar del equipo mediante un programa especial a
+disposición únicamente de los agentes autorizados de Cambridge.
+
+La base de datos soporta una carga de hasta 250 puntos de referencia, que se
+pueden cargar a través de PC y en diversos formatos, incluyendo el estándar
+ASCII.
+
+También se pueden cargar datos de hora, nombre del piloto, matrícula del
+velero, intervalos de grabación, vuelos predeterminados, etc.
+
+Existe la posibilidad de ajustar un "radio" de acercamiento a los puntos
+seleccionados, de manera que la pantalla avisará de la cercanía de un punto
+en dos niveles: CERCA y LLEGADA.
+Por ejemplo: se puede fijar la indicación de CERCA a 1 km del punto
+seleccionado y la de LLEGADA a 100 m del mismo punto.
+
+La pantalla muestra el rumbo del velero en grados y el rumbo hacia el
+próximo punto también en grados.
+Una flecha que señala a derecha ó izquierda, nos indica hacia dónde hemos de
+virar para seguir el rumbo hacia el próximo punto.
+
+A continuación, señala la distancia que nos separa de nuestro objetivo (en
+Kms.
+ó en Nm.) y a su derecha, aparecerán tantos asteriscos como satélites estén
+"enganchados" a nuestro GPS.
+
+El uso del CFSR ofrece datos digitales de mucha exactitud que no sólo ayudan
+a la navegación (que principalmente ha de hacerse sobre el mapa), sino que
+proporciona la altura exacta en una salida, las coordenadas exactas en cada
+punto de viraje, amén de otras muchas ventajas que ya conocemos a través de
+otros navegadores GPS.
+
+Los parámetros del vuelo quedan grabados y existe la posibilidad de
+volcarlos a un PC para su posterior reproducción y tratamiento.
+
+La posible aplicación de este dispositivo para validar vuelos de distancia y
+competición, depende la la elaboración de una normativa para su uso y de su
+validación como medio de demostración.
+Las próximas reuniones de IGC (Comisión Internacional de Vuelo a Vela) a lo
+largo de 1.996, llevan en su agenda este punto y existen comisiones
+específicas que están investigando sus posibilidades, por lo que pronto
+sabremos si será usado o nó.
+
+.El equipamiento de los veleros puede alcanzar altas cotas de tecnología y sofisticación
+image::VSM-en-Fuentemilanos.png[]

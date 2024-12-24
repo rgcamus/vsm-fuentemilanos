@@ -68,4 +68,6 @@ include::chapter-03-Los-primeros-kilometros/content.adoc[]
 
 include::chapter-04-Cross-country/content.adoc[]
 
+include::chapter-05-Bibliografía/content.adoc[]
+
 include::chapter-zz-back-cover/content.adoc[]
