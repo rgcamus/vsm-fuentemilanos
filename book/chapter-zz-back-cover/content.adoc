@@ -3,4 +3,4 @@ ifeval::["{docname}" == "index"]
 :imagesdir: chapter-zz-back-cover/images
 endif::[]
 
-image::cover.pdf[page=2,fit=cover]
+image::back-cover.png[fit=cover]
