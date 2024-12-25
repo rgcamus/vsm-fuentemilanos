@@ -1,3 +1,14 @@
+## 0.3.0 (2024-12-25)
+
+### Feat
+
+- **bibliografia**: Añadida la bibliografía. Completadas todas las páginas
+- **chapter04**: Completado el capítulo 4 algunos ajustes
+
+### Fix
+
+- **image-size**: Ajusto al mínimo el tamaño de imágenes y ajustes a svg
+
 ## 0.2.0 (2024-12-24)
 
 ### Feat
