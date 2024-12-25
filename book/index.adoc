@@ -9,8 +9,8 @@
 :contributors: Fernando Lázaro, José Gresa, Pedro Berlinches, Antonio Gonzalez
 :copyright: 1996 Fuentemilanos
 :email: fuentemilanos@fuentemilanos.com
-:revnumber: v0.8.0
-:revdate: 2024-12-24
+:revnumber: v0.3.0
+:revdate: 2025-12-24
 :revremark: BORRADOR
 :doctype: book
 :appendix-caption: Apéndice
