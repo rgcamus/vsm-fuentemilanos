@@ -1,3 +1,5 @@
+:sectnums!:
+    
 = Bibliografía
 
 - MANUAL DE REGLAMENTACION INTERNA - Aerodromo de Fuentemilanos.
@@ -63,3 +65,5 @@
 -- 28033 MADRID.
 -- Tel. (91) 3831799
 -- Fax. (91) 7663834.
+
+<<<

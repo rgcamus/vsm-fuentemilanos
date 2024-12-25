@@ -421,10 +421,12 @@ El triángulo determinado entre la curva de estado y la línea adiabática
 húmeda, representa la energía de desarrollo de las nubes.
 
 === Línea de convergencia
-[author]
-===============
-Pedro Berlinches Bravo; Fuentemilanos, 22 de abril de 1 996
-===============
+[verse]
+----
+Pedro Berlinches Bravo; 
+Fuentemilanos, 
+22 de abril de 1 996
+----
 
 España es uno de los mejores países del mundo para la práctica del Vuelo a
 Vela, por sus condiciones meteorológicas.
@@ -601,10 +603,12 @@ descendencia y turbulencia, por lo que es importante contar con una sobrada
 reserva de altura.
 
 == Vuelo en onda en la sierra de guadarrama
-[author]
-===============
-Pedro Berlinches Bravo; Fuentemilanos, 14 de Enero de 1 996
-===============
+[verse]
+----
+Pedro Berlinches Bravo; 
+Fuentemilanos, 
+22 de abril de 1 996
+----
 
 El final del año 1 995 y los primeros meses del año 1 996, se recordarán en
 toda España por el Otoño e Invierno tan húmedo y frío que hemos tenido, con

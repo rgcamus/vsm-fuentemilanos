@@ -274,11 +274,13 @@ cuando la actividad es aún escasa.
 
 <<<
 == Vuelo 300 KMS.
-
-* _PILOTO:_ Fernando Correa
-* _FECHA:_ 18/07/95
-* _VELERO:_ LST EC-FJH "SH"
-* _TRAYECTO:_ FUENTE-RIAZA-VILLATORO-FUENTE
+[verse]
+----
+PILOTO: Fernando Correa
+FECHA: 18/07/95
+VELERO: LST EC-FJH "SH"
+TRAYECTO: FUENTE-RIAZA-VILLATORO-FUENTE
+----
 
 Después de una semana de tiempo bastante desastroso, hoy por fin, la
 predicción meteorológica parece augurar un día positivo, así que después de
@@ -392,12 +394,14 @@ aterrizar a las 18:00 h en punto.
 
 Total 4 horas de vuelo en un velero maravilloso y mi primer 300 km.
 
-<<<
 == Vuelo 500 Kms.
-* _PILOTO:_ Miguel Cruchaga
-* _FECHA:_ 15/07/92
-* _VELERO:_ 184 D-99
-* _TRAYECTO:_ FUENTE-BURGO DE OSMA-MENGAMUÑOZ-RIAZA-FUENTE
+[verse]
+----
+PILOTO: Miguel Cruchaga
+FECHA: 15/07/92
+VELERO: 184 D-99
+TRAYECTO: FUENTE-BURGO DE OSMA-MENGAMUÑOZ-RIAZA-FUENTE
+----
 
 El briefing, muy temprano; en esa época hay días que la actividad puede
 empezar, en la Montaña, a las 10:30 de la mañana, siendo consistente ya a
@@ -530,11 +534,13 @@ image::fuentemilanos-torre.png[]
 
 <<< 
 == Vuelo 798 kms récord de España
-
-* _PILOTO:_ Juan José Gresa
-* _FECHA:_ 2/08/94
-* _VELERO:_ DG-600 EC-FJC "VA"
-* _TRAYECTO:_ FUENTE-MONREAL DEL CAMPO-LERMA-PIEDRAHÍTA-FUENTE
+[verse]
+----
+PILOTO: Juan José Gresa
+FECHA: 2/08/94
+VELERO: DG-600 EC-FJC "VA"
+TRAYECTO: FUENTE-MONREAL DEL CAMPO-LERMA-PIEDRAHÍTA-FUENTE
+----
 
 Después del 1000 km del pasado año, que finalmente fue homologado por la FAI
 como el número 239 a nivel mundial, mi ambición este año 1994 era conseguir
@@ -644,12 +650,14 @@ Cáceres, tuve que aterrizar en Mora de Toledo obligado, después de 557 km y
 con buen promedio, por un frente de tormentas.
 
 <<<
-== Vuelo 1.025 kms, primer "1000" de España
-
-* _PILOTO:_ Juan José GRESA
-* _FECHA:_ 12/08/93
-* _VELERO:_ DG-600 EC-FJC "VA"
-* _TRAYECTO:_ FUENTE-MONTEAGUDO-HERVÁS-EMBALSE MONTEAGUDO-FUENTE.
+== Vuelo 1025 kms, primer "1000" de España
+[verse]
+----
+PILOTO: Juan José GRESA
+FECHA: 12/08/93
+VELERO: DG-600 EC-FJC "VA"
+TRAYECTO: FUENTE-MONTEAGUDO-HERVÁS-EMBALSE MONTEAGUDO-FUENTE.
+----
 
 El tiempo había sido muy variable, sin tener dos días consecutivos de tiempo
 similar; el 10 y 11 habían sido días de 300 km.
@@ -846,7 +854,11 @@ Sin su ayuda, soporte y paciencia, nunca hubiese conseguido esta meta.
 == Perfil meteorológico de un día de 1000 kms
 
 [verse]
-Estudio realizado por Pedro Berlinches Fuentemilanos, Febrero 1.996.
+----
+Estudio realizado por Pedro Berlinches Bravo; 
+Fuentemilanos, 
+22 de abril de 1 996
+----
 
 Tras una paciente recopilación y estudio de los datos meteorológicos
 correspondientes a días "explosivos" en los que se han podido realizar
@@ -901,12 +913,13 @@ ella, más conocida como linea de convergencia.
 |===
 
 == Navegación con GPS
-
-* *GPS* = GLOBAL POSITIONING SYSTEM*+
-* *Sistema de Posicionamiento Global*
-
-* Fuente:* Internet
-* Traducción:* Fernando Correa
+[verse]
+----
+GPS = GLOBAL POSITIONING SYSTEM*
+Sistema de Posicionamiento Global*
+Fuente: Internet
+Traducción: Fernando Correa
+----
 
 === ¿Qué es el GPS?
 
@@ -1029,7 +1042,6 @@ Fax. (703) 313-5920.
 
 
 == La navegación con ayuda de GPS
-
 [verse]
 ----
 Fernando Lázaro Cadena
