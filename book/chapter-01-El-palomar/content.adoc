@@ -335,7 +335,7 @@ siguientes:
   nadie.
 
 .El espacio aéreo: Virando a térmica en grupo
-image::espacio-aereo.png[]
+image::espacio-aereo.svg[]
 
 == Volando en ladera
 
