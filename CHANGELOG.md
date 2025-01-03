@@ -1,3 +1,13 @@
+## 0.4.0 (2025-01-03)
+
+### Feat
+
+- **README**: README adaptado
+
+### Fix
+
+- **fechas**: Ajuste de fechas
+
 ## 0.3.1 (2025-01-03)
 
 ### Refactor
