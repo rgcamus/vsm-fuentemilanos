@@ -1,3 +1,9 @@
+## 0.3.1 (2025-01-03)
+
+### Refactor
+
+- **images**: images optimización
+
 ## 0.3.0 (2024-12-25)
 
 ### Feat
@@ -7,6 +13,7 @@
 
 ### Fix
 
+- **portadas**: Resuelve problemas con portadas
 - **image-size**: Ajusto al mínimo el tamaño de imágenes y ajustes a svg
 
 ## 0.2.0 (2024-12-24)
